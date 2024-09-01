@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interview & Test Preparation</title>
+    <link rel="stylesheet" href="/css/question_styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header-bar">
+            <div class="title">Interview & Test Preparation</div>
+            <button class="button tips-button" onclick="showTips()">i</button>
+        </div>
+        <div class="progress-bar">
+            <div class="progress-background"></div>
+            <div class="progress-foreground"></div>
+        </div>
+        <div class="question-container">
+
+                <div class="question" id="question-text">Question text goes here</div>
+            <div class="options-container" id="options-container">
+                <!-- Options will be injected here by JavaScript -->
+            </div>
+        </div>
+
+        <div id="btns">
+            <div>
+                <button class="button previous">Previous</button>
+                <button class="button next">Next</button>
+            </div>
+            <a href="home.html">
+                <button class="button start-again">Start Again</button>
+            </a>
+        </div>
+    </div>
+
+    <div id="tips-popup" class="popup">
+        <div class="popup-content">
+            <span class="close-popup">&times;</span>
+            <div id="tips-content">Tips will be shown here</div>
+        </div>
+    </div>
+    <script src="/js/script.js"></script>
+</body>
+</html>

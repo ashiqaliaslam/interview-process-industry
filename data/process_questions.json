@@ -1,0 +1,33 @@
+{
+    "questions": [
+        {
+            "question": "What si the purpose of Deethanizer column?",
+            "wrongAnswers": [
+                "Extract heavy ends from condensates.",
+                "Produce C4 make up",
+                "Produce C5 product"
+            ],
+            "rightAnswers": [
+                "Extract light ends from condensates."
+            ],
+            "tips": [
+                "Tip 1",
+                "Tip 2"
+            ]
+        },
+        {
+            "question": "What RVP Stands for?",
+            "wrongAnswers": [
+                "Relative Vapor Pressure",
+                "Related Vapor Pressure",
+                "Reed Volumetric Pressure"
+            ],
+            "rightAnswers": [
+                "None of the above."
+            ],
+            "tips": [
+ 
+            ]
+        }
+    ]
+}

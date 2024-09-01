@@ -1,0 +1,68 @@
+{
+    "questions": [
+        {
+            "question": "english of the following is a noun?",
+            "wrongAnswers": [
+                "Run",
+                "Quickly",
+                "Blue"
+            ],
+            "rightAnswers": [
+                "Apple"
+            ],
+            "tips": [
+                "Tip 1",
+                "Tip 2"
+            ]
+        },
+        {
+            "question": "english of the following is a verb?",
+            "wrongAnswers": [
+                "Book",
+                "Beauty",
+                "Green"
+            ],
+            "rightAnswers": [
+                "Run"
+            ],
+            "tips": [
+         
+            ]
+        },
+        {
+            "question": "english of the foasdfllowing is a noun?",
+            "wrongAnswers": [
+                "Ruasdfn",
+                "Quicsdfkly",
+                "Blusdfe"
+            ],
+            "rightAnswers": [
+                "Apasdple"
+            ],
+            "tips": [
+                "Tip 1",
+                "Tip 2"
+            ]
+        },
+        {
+            "question": "english of asdfthe following is a verb?",
+            "wrongAnswers": [
+                "Booasdfk",
+                "Beasdfauty",
+                "Grasdfeen"
+            ],
+            "rightAnswers": [
+                "Ruasdfn"
+            ],
+            "tips": [
+         
+            ]
+        }
+
+        
+    ]
+}
+
+
+
+

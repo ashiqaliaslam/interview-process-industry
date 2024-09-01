@@ -1,0 +1,30 @@
+{
+    "questions": [
+        {
+            "question": "What is hammering? Why does it occur? How can it be avoided?",
+            "tips": [
+                "Tip 1",
+                "Tip 2"
+            ]
+        },
+        {
+            "question": "What does NPSH means? Why si ti important?",
+            "tips": [
+     
+            ]
+        },
+        {
+            "question": "What is draft in a furnace? Explain Natural draft.",
+            "tips": [
+            
+            ]
+        },
+        {
+            "question": "What si hydrotest and where si it used?",
+            "tips": [
+
+            ]
+        }
+
+    ]
+}

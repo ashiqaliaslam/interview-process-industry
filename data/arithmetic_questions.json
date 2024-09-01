@@ -1,0 +1,35 @@
+{
+    "questions": [
+        {
+            "question": "arthmetic of the following is a noun?",
+            "wrongAnswers": [
+                "Run",
+                "Quickly"
+            ],
+            "rightAnswers": [
+                "Blue",
+                "Apple"
+            ],
+            "tips": [
+                "Tip 1",
+                "Tip 2"
+            ]
+        },
+        {
+            "question": "erthemetic of the following is a verb?",
+            "wrongAnswers": [
+                "Book",
+                "Beauty",
+                "Green"
+            ],
+            "rightAnswers": [
+                "Run"
+            ],
+            "tips": [
+        
+            ]
+        }
+
+        
+    ]
+}

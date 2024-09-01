@@ -1,0 +1,33 @@
+{
+    "questions": [
+        {
+            "question": "Calculate (2.05 x 12.15) / 12.76",
+            "wrongAnswers": [
+                "18",
+                "24.56",
+                "19.86"
+            ],
+            "rightAnswers": [
+                "1.95"
+            ],
+            "tips": [
+                "Tip 1",
+                "Tip 2"
+            ]
+        },
+        {
+            "question": "The relationship between two numbers x and y is x = 2y, if y is increased by 22% find the corresponding percentage increase in x.",
+            "wrongAnswers": [
+                "100%",
+                "35%",
+                "21%"
+            ],
+            "rightAnswers": [
+                "44%"
+            ],
+            "tips": [
+   
+            ]
+        }
+    ]
+}
