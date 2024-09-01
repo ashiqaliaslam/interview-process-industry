@@ -35,7 +35,7 @@ function updatePageTitle(category) {
 }
 
 function loadQuestions(category) {
-    const filePath = `/data/${category}_questions.json`;
+    const filePath = `${category}_questions.json`;
     
     fetch(filePath)
         .then(response => response.json())
