@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    if (window.location.pathname.includes('home.html')) {
+    if (window.location.pathname.includes('index.html')) {
         setupHomePage();
     } else if (window.location.pathname.includes('question.html')) {
         setupQuestionPage();
