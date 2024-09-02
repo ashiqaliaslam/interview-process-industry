@@ -1,6 +1,126 @@
 {
     "questions": [
         {
+            "question": "I haven't heard from Hassan for ages. I wonder _____________.",
+            "wrongAnswers": [
+                "what he like",
+                "how is he",
+                "how does he"
+            ],
+            "rightAnswers": [
+                "how he is"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Take your umbrella. It's raining _____________.",
+            "wrongAnswers": [
+                "strong",
+                "hardly",
+                "much"
+            ],
+            "rightAnswers": [
+                "heavily"
+            ],
+            "tips": []
+        },
+        {
+            "question": "You _____________ always wear gloves for protection against chemical burns.",
+            "wrongAnswers": [
+                "mustn't",
+                "should",
+                "don't have to"
+            ],
+            "rightAnswers": [
+                "must"
+            ],
+            "tips": []
+        },
+        {
+            "question": "He's learning _____________ a truck.",
+            "wrongAnswers": [
+                "driving",
+                "drive",
+                "the driving"
+            ],
+            "rightAnswers": [
+                "to drive"
+            ],
+            "tips": []
+        },
+        {
+            "question": "I think most people _____________ English for their jobs in the future.",
+            "wrongAnswers": [
+                "are needing",
+                "will have needed"
+            ],
+            "rightAnswers": [
+                "will need"
+            ],
+            "tips": []
+        },
+        {
+            "question": "You can't _____________ on him at all. He never does what he says he’ll do.",
+            "wrongAnswers": [
+                "tolerate",
+                "collaborate",
+                "arrange"
+            ],
+            "rightAnswers": [
+                "rely"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Where is Lina? She _____________ over there.",
+            "wrongAnswers": [
+                "is stand",
+                "stand",
+                "standing"
+            ],
+            "rightAnswers": [
+                "is standing"
+            ],
+            "tips": []
+        },
+        {
+            "question": "There was a terrible _____________ on the Highway this morning. Five vehicles were involved.",
+            "wrongAnswers": [
+                "scratch",
+                "damage",
+                "crash"
+            ],
+            "rightAnswers": [
+                "incident"
+            ],
+            "tips": []
+        },
+        {
+            "question": "It's much too expensive. We can't possibly _____________ it.",
+            "wrongAnswers": [
+                "pay",
+                "cost",
+                "cope"
+            ],
+            "rightAnswers": [
+                "afford"
+            ],
+            "tips": []
+        },
+        {
+            "question": "The hotel was so awful that we wrote a letter of ___________ to the travel agency when we got back home.",
+            "wrongAnswers": [
+                "thanks",
+                "relief",
+                "warning"
+            ],
+            "rightAnswers": [
+                "complaint"
+            ],
+            "tips": []
+        },
+
+        {
             "question": "It's a very long day for Taresh. He doesn't get home from school _____________ six o'clock.",
             "wrongAnswers": [
                 "since",

@@ -1,6 +1,129 @@
 {
     "questions": [
         {
+            "question": "Calculate 7.05 x 28.15",
+            "wrongAnswers": [
+                "180",
+                "236.17",
+                "245"
+            ],
+            "rightAnswers": [
+                "198.46"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Calculate 3.14 x (12/25.7)",
+            "wrongAnswers": [
+                "1.469",
+                "31.56",
+                "1.846"
+            ],
+            "rightAnswers": [
+                "1.466"
+            ],
+            "tips": []
+        },
+        {
+            "question": "The relationship between two numbers x and y is x = y^2 + 10, y is increased by 10% find the corresponding percentage increase in x.",
+            "wrongAnswers": [
+                "33%",
+                "35%",
+                "100%"
+            ],
+            "rightAnswers": [
+                "21%"
+            ],
+            "tips": [
+                "This question is tricky, please solve it on paper and do share the conclusion."
+            ]
+        },
+        {
+            "question": "28.5% of a number is 118, find the number.",
+            "wrongAnswers": [
+                "135.5",
+                "47.85",
+                "324"
+            ],
+            "rightAnswers": [
+                "33.63"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Given that 1 / (N-1) = 0.875, calculate N.",
+            "wrongAnswers": [
+                "62",
+                "1.125",
+                "10.33"
+            ],
+            "rightAnswers": [
+                "2.143"
+            ],
+            "tips": []
+        },
+        {
+            "question": "A square land is covered with 4/6 area of Buildings. What is the remaining land in area %?",
+            "wrongAnswers": [
+                "33.33%",
+                "100%",
+                "50%"
+            ],
+            "rightAnswers": [
+                "33.33%"
+            ],
+            "tips": []
+        },
+        {
+            "question": "The expression 1.4^3 × 2^2 equals:",
+            "wrongAnswers": [
+                "6^3",
+                "6.76",
+                "4^5"
+            ],
+            "rightAnswers": [
+                "3.31^2"
+            ],
+            "tips": []
+        },
+        {
+            "question": "What is the sum of the following fractions: 3/4 + 6/11 + 6/28",
+            "wrongAnswers": [
+                "12/14",
+                "13/39",
+                "1.046"
+            ],
+            "rightAnswers": [
+                "55.87/37"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Arrange these fractions in order of increasing magnitude: 4/5, 9/15, 3/7",
+            "wrongAnswers": [
+                "3/7, 9/15, 4/5",
+                "6/15, 5/7, 2/5",
+                "4/5, 9/15, 3/7"
+            ],
+            "rightAnswers": [
+                "3/7, 4/5, 9/5"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Calculate 3^3 + 8^2 + 12^3",
+            "wrongAnswers": [
+                "3202",
+                "1144",
+                "1568"
+            ],
+            "rightAnswers": [
+                "1819"
+            ],
+            "tips": []
+        },
+
+        {
             "question": "Calculate (2.05 x 12.15) / 12.76",
             "wrongAnswers": [
                 "18",
@@ -10,10 +133,19 @@
             "rightAnswers": [
                 "1.95"
             ],
-            "tips": [
-                "Tip 1",
-                "Tip 2"
-            ]
+            "tips": []
+        },
+        {
+            "question": "Calculate 3.142 x (6 / 9.8)",
+            "wrongAnswers": [
+                "1.469",
+                "1.466",
+                "31.56"
+            ],
+            "rightAnswers": [
+                "1.924"
+            ],
+            "tips": []
         },
         {
             "question": "The relationship between two numbers x and y is x = 2y, if y is increased by 22% find the corresponding percentage increase in x.",
@@ -25,9 +157,93 @@
             "rightAnswers": [
                 "44%"
             ],
-            "tips": [
-   
-            ]
+            "tips": []
+        },
+        {
+            "question": "63.25% of number 29, find out the number.",
+            "wrongAnswers": [
+                "33.35",
+                "24.85",
+                "32.84"
+            ],
+            "rightAnswers": [
+                "18.34"
+            ],
+            "tips": []
+        }
+,        
+        {
+            "question": "Given that 1 / (6-X) = 1.25, calculate X.",
+            "wrongAnswers": [
+                "6.62",
+                "8.46",
+                "4.68"
+            ],
+            "rightAnswers": [
+                "5.20"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Built up area of a land is 24%, what is the balance land area.",
+            "wrongAnswers": [
+                "1/2",
+                "8/16.24",
+                "2/6.4"
+            ],
+            "rightAnswers": [
+                "8/10.525"
+                
+            ],
+            "tips": []
+        },
+        {
+            "question": "The expression 2.21^3 × 3.2^2 = X, what is the value of X.",
+            "wrongAnswers": [
+                "32.42",
+                "21.03",
+                "6.2^2"
+            ],
+            "rightAnswers": [
+                "4.8^3"
+            ],
+            "tips": []
+        },
+        {
+            "question": "What is the sum of the following fractions: 2/5 + 9/11 + 7/11",
+            "wrongAnswers": [
+                "3.452",
+                "25.87/28",
+                "23/39"
+            ],
+            "rightAnswers": [
+                "1.855"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Arrange these fractions in order of decreasing magnitude: 3/7, 4/5, 9/15",
+            "wrongAnswers": [
+                "9/15, 3/7, 4/5",
+                "6/15, 5/7, 2/5",
+                "3/7, 9/15, 4/5"
+            ],
+            "rightAnswers": [
+                "4/5, 9/15, 3/7"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Calculate 1.22 + 4^2 + 3^4",
+            "wrongAnswers": [
+                "114.45",
+                "181.9",
+                "80.12"
+            ],
+            "rightAnswers": [
+                "98.22"
+            ],
+            "tips": []
         }
     ]
 }
