@@ -102,7 +102,10 @@ body {
     flex-direction: column; 
     align-items: center; 
     justify-content: center; 
-    height: 100vh; 
+    /* height: 100vh;  */
+    position: fixed;
+    bottom: 20px;
+    width: 100%;
 }
 
 .button {
@@ -112,7 +115,7 @@ body {
     background-color: #898dff;
     color: white; 
     cursor: pointer;
-    border-radius: 10px; 
+    border-radius: 10px;
 }
 
 .button:hover {
