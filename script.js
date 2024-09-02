@@ -115,7 +115,7 @@ function displayQuestion(question, questions) {
         });
     } else {
         // Display a message if no options are available
-        optionsContainer.innerHTML = '<p style="color:lightgrey; font-size:20px;">Please write a brief or comprehensive answer.</p>';
+        optionsContainer.innerHTML = '<p style="color:lightgrey; font-size:20px;">Please write down your answer for practice.</p>';
     }
 
     updateProgressBar(); // Ensure progress bar is updated after displaying questions
