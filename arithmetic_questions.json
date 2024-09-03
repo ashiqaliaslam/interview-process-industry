@@ -1,35 +1,175 @@
 {
     "questions": [
         {
-            "question": "arthmetic of the following is a noun?",
+            "question": "You have 600 liters of water in a vessel. You received an order to transfer the water into containers of 50 liters. How many containers will you need?",
             "wrongAnswers": [
-                "Run",
-                "Quickly"
+                "10.5",
+                "11.1",
+                "12"
             ],
             "rightAnswers": [
-                "Blue",
-                "Apple"
+                "11"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Now the same container with 600L of water starts leaking as soon as you start the transfer at the rate of 1L per minute at the valve over the total transfer. How much water will you be wasting knowing that it takes 10 minutes to transfer to each container?",
+            "wrongAnswers": [
+                "111L",
+                "92.5L",
+                "55.5L"
+            ],
+            "rightAnswers": [
+                "120L"
+            ],
+            "tips": []
+        },
+        {
+            "question": "In the above conditions, how many containers do you need?",
+            "wrongAnswers": [
+                "9.6",
+                "12",
+                "11"
+            ],
+            "rightAnswers": [
+                "10"
+            ],
+            "tips": []
+        },
+        {
+            "question": "What is the volume of a pipe of 20cm diameter and 20km length in M³?",
+            "wrongAnswers": [
+                "628000",
+                "62.8",
+                "6.28"
+            ],
+            "rightAnswers": [
+                "628"
             ],
             "tips": [
-                "Tip 1",
-                "Tip 2"
+                "To calculate the volume of a pipe, we can treat it as a cylinder. The formula for the volume of a cylinder is",
+                "",
+                "Volume = π * radius^2 * height",
+                "",
+                "Diameter = 20 cm = 0.2 m (converting to meters)",
+                "Radius = Diameter / 2 = 0.2 m / 2 = 0.1 m",
+                "Length (height) = 20 km = 20,000 m",
+                "Volume = π * (0.1 m)^2 * 20,000 m"
             ]
         },
         {
-            "question": "erthemetic of the following is a verb?",
+            "question": "You live at 12km from Ali's house. You start jogging at 6km/h towards Ali's house. Ali starts jogging at 5km/h towards your house, but starts 10 minutes later. What distance would you have run when you meet him?",
             "wrongAnswers": [
-                "Book",
-                "Beauty",
-                "Green"
+                "6Km",
+                "4.3Km",
+                "6.5Km"
             ],
             "rightAnswers": [
-                "Run"
+                "7Km"
             ],
             "tips": [
-        
+                "Distance between houses: 12 km",
+                "Your speed: 6 km/h",
+                "Ali's speed: 5 km/h",
+                "Ali starts 10 minutes (1/6 hours) later",
+                "",
+                "",
+                "Step 2: Calculate Distance You Travel in 10 Minutes",
+                "",
+                "In 10 minutes, you travel: 6 × 1/6 = 1 km",
+                "",
+                "",
+                "Step 3: Determine Remaining Distance",
+                "",
+                "Remaining distance when Ali starts: 12 − 1 = 11 km",
+                "",
+                "",
+                "Step 4: Calculate Relative Speed",
+                "When both of you are jogging towards each other, the relative speed is the sum of both your speeds",
+                "",
+                "Relative speed: 6 + 5 = 11 km/h",
+                "",
+                "",
+                "Step 5: Calculate Time to Meet",
+                "",
+                "Time to meet: 11 km / 11 km/h = 1 hour",
+                "",
+                "",
+                "Step 6: Calculate Distance You Have Run",
+                "",
+                "Total distance you run: 1 km (initial) + 6 km (in 1 hour) = 7 km",
+                "",
+                "",
+                "Final Answer",
+                "You will have run 7 km when you meet Ali."
+            
             ]
+        },
+        {
+            "question": "You have 900 liters of water in a vessel. You received an order to transfer the water into containers of 60 liters. How many containers will you need?",
+            "wrongAnswers": [
+                "10.5",
+                "11.1",
+                "12"
+            ],
+            "rightAnswers": [
+                "15"
+            ],
+            "tips": []
+        },
+        {
+            "question": "Now the same container with 900L of water starts leaking as soon as you start the transfer at the rate of 2L per minute at the valve over the total transfer. How much water will you be wasting knowing that it takes 15 minutes to transfer to each container?",
+            "wrongAnswers": [
+                "111L",
+                "92.5L",
+                "55.5L"
+            ],
+            "rightAnswers": [
+                "450L"
+            ],
+            "tips": [
+                "Number of containers = 900 liters / 60 liters/container = 15 containers",
+                "",
+                "Total transfer time = 15 minutes/container * 15 containers = 225 minutes",
+                "",
+                "Water wasted = 2 liters/minute * 225 minutes = 450 liters"
+            ]
+        },
+        {
+            "question": "You are instructed to cordon off (rope off) the Sweetening Plant 2 because of X-ray inside the area (square of 70 m side) to prevent any access. You are asked to fix warning X-ray flags every 8m on the rope. What length of rope do you need?",
+            "wrongAnswers": [
+                "2500m",
+                "50m",
+                "10m"
+            ],
+            "rightAnswers": [
+                "280m"
+            ],
+            "tips": []
+        },
+        {
+            "question": "How many flags will you need?",
+            "wrongAnswers": [
+                "42",
+                "38",
+                "35"
+            ],
+            "rightAnswers": [
+                "40"
+            ],
+            "tips": []
+        },
+        {
+            "question": "The LNG Plant produces 220 T/H of LNG. What is the annual production?",
+            "wrongAnswers": [
+                "2×10⁶",
+                "3×10⁶",
+                "5×10⁶"
+            ],
+            "rightAnswers": [
+                "2.2×10⁶"
+            ],
+            "tips": []
         }
-
-        
     ]
 }
