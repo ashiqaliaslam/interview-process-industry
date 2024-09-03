@@ -81,109 +81,98 @@
                 "Valve tray: valves open and close to allow vapor to pass through liquid."
             ]
         },
-
-      {
-        "question": "Explain the phenomenon of ‘surge’ in a centrifugal compressor and how to prevent it?",
-        "tips": [
-            "Surge in a centrifugal compressor occurs when the flow rate falls below a critical level.",
-            "It results in flow reversal and can cause severe mechanical damage.",
-            "To prevent surge, maintain the flow above the surge line using anti-surge control systems.",
-            "Install surge control valves and ensure proper system design."
-        ]
-      },
-      {
-        "question": "What is H2S? Explain the importance between a range of 0-10 ppm and above 10 ppm?",
-        "tips": [
-         "H2S, or hydrogen sulfide, is a toxic and flammable gas.",
-         "At 0-10 ppm, it has a noticeable rotten egg smell and can cause irritation to the eyes, nose, and throat.",
-          "Above 10 ppm, it can cause severe health effects and is considered dangerous.",
-          "Strict safety measures must be in place to monitor and control H2S levels, including personal protective equipment, ventilation, and emergency procedures."
-
-        ]
-      },
-      {
-        "question": "What is hammering? Why does it occur? How can it be avoided?",
-        "tips": [
-            "Condensate hammering occurs when steam condenses into liquid water.",
-            "This is often caused by sudden changes in flow rate or temperature, such as when a valve is closed rapidly or a steam trap fails.",
-            "It can result in loud banging noises, vibrations, and potential damage to the steam system.",
-            "To prevent condensate hammering, ensure proper steam trap installation to remove condensate efficiently."
-
-        ]
-      },
-      {
-        "question": "What is the purpose of doing a nitrogen purge for on equipment or unit?",
-        "tips": [
-            "Nitrogen purge removes oxygen and other contaminants from equipments to prevent fires, explosions, or other hazards.",
-            "It prevents oxidation and corrosion during shutdown or maintenance.",
-            "Nitrogen is a non-flammable and inert gas that can safely displace oxygen without creating a hazardous atmosphere.",
-          "It is essential before opening equipment for inspection or repair."
-
-        ]
-      },
-      {
-        "question": "What is Flash Point? What is Kerojet flash specification?",
-        "tips": [
-          "Flash point is the lowest temperature at which a liquid will produce sufficient vapor to form an ignitable mixture with air.",
-          "Kerojet fuel has a flash point specification to ensure it is safe to handle and transport.",
-          "The flash point of Kerojet fuel is typically higher than that of gasoline to reduce the risk of ignition."
-        ]
-      },
-      {
-        "question": "What is the purpose of pumparound?",
-        "tips": [
-          "Pumparound is a process used in distillation columns to improve separation efficiency.",
-          "It involves withdrawing a portion of the liquid from the column and returning it to a lower stage.",
-          "This helps to maintain a more uniform temperature profile in the column and improve product purity."
-        ]
-      },
-      {
-        "question": "What would cause: 1. Catalyst poisoning / 2. Catalyst aging?",
-        "tips": [
-          "Catalyst poisoning occurs when contaminants in the feedstock react with the catalyst, reducing its activity.",
-          "Common causes of catalyst poisoning include sulfur compounds, heavy metals, and water.",
-          "",
-          "Catalyst aging is a natural process that occurs over time, leading to a gradual decline in catalyst activity.",
-          "Aging can be accelerated by high temperatures, excessive pressure, and exposure to contaminants."
-        ]
-      },
-      {
-        "question": "Why is RVP important?",
-        "tips": [
-            "RVP, or Reid Vapor Pressure, measures the volatility of gasoline.",
-            "used to stablize the gasoline products like slobe",
-            "Higher RVP indicates higher evaporation rate.",
-            "Control RVP to meet environmental regulations and performance standards."
- ]
-      },
-      {
-        "question": "What are the important checks before starting a centrifugal compressor?",
-        "tips": [
-            "Ensure that all safety valves are operational.",
-            "Ensure all auxiliaries are in service",
-            "eg, Lube oil, Sealing System, Cooling Water",
-            "Ensure Compressor casing drains are open for any accumulated liquid",
-            "Ensure the suction and discharge isolations are open.",
-            "inspect for leaks.",
-            "Ensure that the anti-surge control system is active."
-        ]
-      },
-      {
-        "question": "How to put centrifugal pump in stand-by after maintenance?",
-        "tips": [
-            "Ensure the pump is properly aligned and lubricated.",
-            "Fill the pump casing with liquid to avoid dry running.",
-            "Take sealing system in service",
-            "Open the discharge valve to put in ready state.",
-            "Keep the suction valve open and the pump primed for immediate use."
-        ]
-      }
-      
+        {
+            "question": "Explain the phenomenon of ‘surge’ in a centrifugal compressor and how to prevent it?",
+            "tips": [
+                "Surge in a centrifugal compressor occurs when the flow rate falls below a critical level.",
+                "It results in flow reversal and can cause severe mechanical damage.",
+                "To prevent surge, maintain the flow above the surge line using anti-surge control systems.",
+                "Install surge control valves and ensure proper system design."
+            ]
+        },
+        {
+            "question": "What is H2S? Explain the importance between a range of 0-10 ppm and above 10 ppm?",
+            "tips": [
+                "H2S, or hydrogen sulfide, is a toxic and flammable gas.",
+                "At 0-10 ppm, it has a noticeable rotten egg smell and can cause irritation to the eyes, nose, and throat.",
+                "Above 10 ppm, it can cause severe health effects and is considered dangerous.",
+                "Strict safety measures must be in place to monitor and control H2S levels, including personal protective equipment, ventilation, and emergency procedures."
+            ]
+        },
+        {
+            "question": "What is hammering? Why does it occur? How can it be avoided?",
+            "tips": [
+                "Condensate hammering occurs when steam condenses into liquid water.",
+                "This is often caused by sudden changes in flow rate or temperature, such as when a valve is closed rapidly or a steam trap fails.",
+                "It can result in loud banging noises, vibrations, and potential damage to the steam system.",
+                "To prevent condensate hammering, ensure proper steam trap installation to remove condensate efficiently."
+            ]
+        },
+        {
+            "question": "What is the purpose of doing a nitrogen purge for on equipment or unit?",
+            "tips": [
+                "Nitrogen purge removes oxygen and other contaminants from equipments to prevent fires, explosions, or other hazards.",
+                "It prevents oxidation and corrosion during shutdown or maintenance.",
+                "Nitrogen is a non-flammable and inert gas that can safely displace oxygen without creating a hazardous atmosphere.",
+                "It is essential before opening equipment for inspection or repair."
+            ]
+        },
+        {
+            "question": "What is Flash Point? What is Kerojet flash specification?",
+            "tips": [
+                "Flash point is the lowest temperature at which a liquid will produce sufficient vapor to form an ignitable mixture with air.",
+                "Kerojet fuel has a flash point specification to ensure it is safe to handle and transport.",
+                "The flash point of Kerojet fuel is typically higher than that of gasoline to reduce the risk of ignition."
+            ]
+        },
+        {
+            "question": "What is the purpose of pumparound?",
+            "tips": [
+                "Pumparound is a process used in distillation columns to improve separation efficiency.",
+                "It involves withdrawing a portion of the liquid from the column and returning it to a lower stage.",
+                "This helps to maintain a more uniform temperature profile in the column and improve product purity."
+            ]
+        },
+        {
+            "question": "What would cause: 1. Catalyst poisoning / 2. Catalyst aging?",
+            "tips": [
+                "Catalyst poisoning occurs when contaminants in the feedstock react with the catalyst, reducing its activity.",
+                "Common causes of catalyst poisoning include sulfur compounds, heavy metals, and water.",
+                "",
+                "Catalyst aging is a natural process that occurs over time, leading to a gradual decline in catalyst activity.",
+                "Aging can be accelerated by high temperatures, excessive pressure, and exposure to contaminants."
+            ]
+        },
+        {
+            "question": "Why is RVP important?",
+            "tips": [
+                "RVP, or Reid Vapor Pressure, measures the volatility of gasoline.",
+                "used to stablize the gasoline products like slobe",
+                "Higher RVP indicates higher evaporation rate.",
+                "Control RVP to meet environmental regulations and performance standards."
+            ]
+        },
+        {
+            "question": "What are the important checks before starting a centrifugal compressor?",
+            "tips": [
+                "Ensure that all safety valves are operational.",
+                "Ensure all auxiliaries are in service",
+                "eg, Lube oil, Sealing System, Cooling Water",
+                "Ensure Compressor casing drains are open for any accumulated liquid",
+                "Ensure the suction and discharge isolations are open.",
+                "inspect for leaks.",
+                "Ensure that the anti-surge control system is active."
+            ]
+        },
+        {
+            "question": "How to put centrifugal pump in stand-by after maintenance?",
+            "tips": [
+                "Ensure the pump is properly aligned and lubricated.",
+                "Fill the pump casing with liquid to avoid dry running.",
+                "Take sealing system in service",
+                "Open the discharge valve to put in ready state.",
+                "Keep the suction valve open and the pump primed for immediate use."
+            ]
+        }
     ]
-  }
-
-
-
-
-
-
+}
