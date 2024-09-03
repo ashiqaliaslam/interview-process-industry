@@ -35,7 +35,7 @@ html, body {
 
 .header {
     position: absolute;
-    top: 100px;
+    top: 30px;
     font-size: 32px;
     font-weight: bold;
 }
