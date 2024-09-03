@@ -173,13 +173,13 @@
             "wrongAnswers": [
                 "Primary seal pot level will increase and secondary seal pot level increase",
                 "Secondary seal pot level decrease and primary seal pot level decrease",
-                "Secondary seal pot level increase and primary seal pot level decrease"
-            ],
-            "rightAnswers": [
                 "Primary seal pot level will increase and secondary seal pot level decrease"
             ],
+            "rightAnswers": [
+                "Secondary seal pot level increase and primary seal pot level decrease"
+            ],
             "tips": [
-                "A failing primary mechanical seal causes an increase in its pot level and a decrease in the secondary pot level."
+                "A failing primary mechanical seal causes an increase in its leaking liquid hence the primary pot level decrease and secondary pot level will increase"
             ]
         },
         {
@@ -378,34 +378,6 @@
             ]
         },
         {
-            "question": "Positive displacement pump is used for:",
-            "wrongAnswers": [
-                "High pressure.",
-                "High flow.",
-                "High temperature."
-            ],
-            "rightAnswers": [
-                "Accurate flow."
-            ],
-            "tips": [
-                "Positive displacement pumps provide precise flow rates regardless of pressure."
-            ]
-        },
-        {
-            "question": "A centrifugal pump is used for:",
-            "wrongAnswers": [
-                "High pressure.",
-                "High temperature.",
-                "Vacuum discharge."
-            ],
-            "rightAnswers": [
-                "High flow."
-            ],
-            "tips": [
-                "Centrifugal pumps are ideal for moving large volumes of fluid at lower pressures."
-            ]
-        },
-        {
             "question": "The control room asked you to physically check outside the level in a vessel. What do you check?",
             "wrongAnswers": [
                 "LT",
@@ -459,6 +431,411 @@
             ],
             "tips": [
                 "Opening the outlet first prevents trapped pressure from being released suddenly when the inlet is opened."
+            ]
+        },
+        {
+            "question": "Purpose of Gas processing is",
+            "wrongAnswers": [
+            ],
+            "rightAnswers": [
+                "To increase its Calorific value.",
+                "To decrease its hydrate formation temperature.",
+                "All of these."
+            ],
+            "tips": [
+                "Gas processing aims to remove impurities, increase calorific value, and lower hydrate formation temperature."
+            ]
+        },
+        {
+            "question": "Sensible heat formula is",
+            "wrongAnswers": [
+                "mλ",
+                "UAΔT",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "mcΔT"
+            ],
+            "tips": [
+                "The formula for sensible heat is mcΔT, where m is mass, c is specific heat, and ΔT is temperature change."
+            ]
+        },
+        {
+            "question": "Ethane is a",
+            "wrongAnswers": [
+                "Unsaturated Hydrocarbon",
+                "Cyclic Hydrocarbon",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "Saturated Hydrocarbon"
+            ],
+            "tips": [
+                "Ethane is a saturated hydrocarbon with single bonds between carbon atoms."
+            ]
+        },
+        {
+            "question": "Main constituent of natural gas is",
+            "wrongAnswers": [
+                "Ethane",
+                "Nitrogen",
+                "Oxygen"
+            ],
+            "rightAnswers": [
+                "Methane"
+            ],
+            "tips": [
+                "Methane is the main constituent of natural gas, making up about 70-90%."
+            ]
+        },
+        {
+            "question": "Temperature at which condensation starts is called",
+            "wrongAnswers": [
+                "Bubble point",
+                "Cricondentherm",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "Dew point"
+            ],
+            "tips": [
+                "The dew point is the temperature at which condensation starts to form from a vapor."
+            ]
+        },
+        {
+            "question": "H2S has a",
+            "wrongAnswers": [
+                "Sweet smell",
+                "Odorless",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "Rotten egg smell"
+            ],
+            "tips": [
+                "Hydrogen sulfide (H2S) has a characteristic rotten egg smell."
+            ]
+        },
+        {
+            "question": "When heat is transferred by chain of molecules from the hot area of an object to colder area, process of heat transfer is called?",
+            "wrongAnswers": [
+                "Convection.",
+                "Radiation.",
+                "Heat transfer"
+            ],
+            "rightAnswers": [
+                "Conduction."
+            ],
+            "tips": [
+                "Conduction is the transfer of heat through a material by direct contact of molecules."
+            ]
+        },
+        {
+            "question": "The temperature at which a flammable liquid or volatile solid gives off vapors sufficient to form an ignitable mixture with the air near the surface of the liquid is called?",
+            "wrongAnswers": [
+                "Fire point",
+                "Pour Point",
+                "Boiling Point"
+            ],
+            "rightAnswers": [
+                "Flash point"
+            ],
+            "tips": [
+                "The flash point is the lowest temperature at which a liquid can form an ignitable mixture with air."
+            ]
+        },
+        {
+            "question": "It is a mixture of Propane & Butane gases at atmospheric pressure & liquid if high pressure is applied.",
+            "wrongAnswers": [
+                "Compressed Natural Gas (CNG)",
+                "Liquefied Natural Gas (LNG)",
+                "Gasoline"
+            ],
+            "rightAnswers": [
+                "Liquefied Petroleum Gas (LPG)"
+            ],
+            "tips": [
+                "LPG is a mixture of propane and butane that can be stored as a liquid under pressure."
+            ]
+        },
+        {
+            "question": "Gas sweetening is a process of removing",
+            "wrongAnswers": [
+                "Nitrogen",
+                "H2O",
+                "All of these"
+            ],
+            "rightAnswers": [
+                "H2S"
+            ],
+            "tips": [
+                "Gas sweetening involves removing H2S and CO2 from natural gas to make it safe for use."
+            ]
+        },
+        {
+            "question": "The temperature at which volume of perfect gas is theoretically becomes zero & all thermal motion ceases is called?",
+            "wrongAnswers": [
+                "Bubble point",
+                "Critical Temperature",
+                "Critical Point"
+            ],
+            "rightAnswers": [
+                "Absolute Zero"
+            ],
+            "tips": [
+                "Absolute zero is the temperature at which a perfect gas would have zero volume and no thermal motion."
+            ]
+        },
+        {
+            "question": "More fluid is pumped at one time when the pumps are connected in:",
+            "wrongAnswers": [
+                "Series",
+                "Series with a bypass",
+                "Both A & B"
+            ],
+            "rightAnswers": [
+                "Parallel"
+            ],
+            "tips": [
+                "Parallel pump configuration increases the flow rate compared to series configuration."
+            ]
+        },
+        {
+            "question": "Venturimeter is used for measuring:",
+            "wrongAnswers": [
+                "Pressure",
+                "Temperature",
+                "Level"
+            ],
+            "rightAnswers": [
+                "Flow"
+            ],
+            "tips": [
+                "A Venturimeter is a device used to measure the flow rate of fluid in a pipe."
+            ]
+        },
+        {
+            "question": "Most commonly used flow element in industry is",
+            "wrongAnswers": [
+                "Venturimeter",
+                "Flow Orifice",
+                "Rota meter"
+            ],
+            "rightAnswers": [
+                "All of these"
+            ],
+            "tips": [
+                "Venturimeters, flow orifices, and rotameters are all commonly used flow measurement devices in the industry."
+            ]
+        },
+        {
+            "question": "Pressure drop is maximum across",
+            "wrongAnswers": [
+                "Venturimeter",
+                "Rota meter",
+                "All of these"
+            ],
+            "rightAnswers": [
+                "Flow Orifice"
+            ],
+            "tips": [
+                "A flow orifice typically causes the highest pressure drop among common flow measurement devices."
+            ]
+        },
+        {
+            "question": "Pitot tube is used for measuring:",
+            "wrongAnswers": [
+                "Flow",
+                "Pressure",
+                "Temperature"
+            ],
+            "rightAnswers": [
+                "Velocity"
+            ],
+            "tips": [
+                "A Pitot tube measures the fluid velocity by converting the kinetic energy in a fluid flow to potential energy."
+            ]
+        },
+        {
+            "question": "Minimum head needed at the suction of pump to get the liquid in the impeller without vaporizing is known as?",
+            "wrongAnswers": [
+                "Net Positive Suction Head Available (NPSH-A)",
+                "Differential Head",
+                "Suction head"
+            ],
+            "rightAnswers": [
+                "Net Positive Suction Head Required (NPSH-R)"
+            ],
+            "tips": [
+                "NPSH-R is the minimum pressure required at the pump suction to avoid cavitation."
+            ]
+        },
+        {
+            "question": "Atmospheric pressure is equal to",
+            "wrongAnswers": [
+                "14.7 Psia",
+                "33.92 ft of water",
+                "29.92 in Hg"
+            ],
+            "rightAnswers": [
+                "All of these"
+            ],
+            "tips": [
+                "Atmospheric pressure at sea level is approximately 14.7 psi, 33.92 ft of water, or 29.92 inches of mercury."
+            ]
+        },
+        {
+            "question": "1 ft of water has static head equal to",
+            "wrongAnswers": [
+                "2 Psi",
+                "1 Psi",
+                "2.2 Psi"
+            ],
+            "rightAnswers": [
+                "0.433 Psi"
+            ],
+            "tips": [
+                "One foot of water column equals approximately 0.433 psi."
+            ]
+        },
+        {
+            "question": "A standard cubic foot of gas:",
+            "wrongAnswers": [
+                "Changes with temperature",
+                "Changes with pressure",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "Both of these"
+            ],
+            "tips": [
+                "A standard cubic foot of gas is defined at specific temperature and pressure conditions."
+            ]
+        },
+        {
+            "question": "1 MMSCF is equal to",
+            "wrongAnswers": [
+                "10^3 standard cubic feet",
+                "10^9 standard cubic feet",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "10^6 standard cubic feet"
+            ],
+            "tips": [
+                "1 MMSCF stands for one million standard cubic feet of gas."
+            ]
+        },
+        {
+            "question": "Gas is a",
+            "wrongAnswers": [
+                "Incompressible fluid",
+                "Both of these (A,B)",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "Compressible fluid"
+            ],
+            "tips": [
+                "Gas is a compressible fluid, meaning its volume can change with pressure and temperature."
+            ]
+        },
+        {
+            "question": "Which of these is a measure of gas pressure?",
+            "wrongAnswers": [
+                "Kilograms per square inch",
+                "Grams per square centimeter",
+                "All of these"
+            ],
+            "rightAnswers": [
+                "Pounds per square inch"
+            ],
+            "tips": [
+                "Gas pressure is commonly measured in pounds per square inch (psi)."
+            ]
+        },
+        {
+            "question": "Positive displacement pump or compressor operates with:",
+            "wrongAnswers": [
+                "Rotary motion",
+                "Centrifugal force",
+                "Reciprocating motion"
+            ],
+            "rightAnswers": [
+                "Both Rotary and Reciprocating"
+            ],
+            "tips": [
+                "Positive displacement pumps and compressors can operate with rotary and reciprocating motions."
+            ]
+        },
+        {
+            "question": "If a force of 20 pound is applied on area of 10 inch square than pressure will be",
+            "wrongAnswers": [
+                "3 PSI",
+                "200 PSI",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "2 PSI"
+            ],
+            "tips": [
+                "Pressure is calculated as force divided by area, so 20 pounds on 10 square inches equals 2 psi."
+            ]
+        },
+        {
+            "question": "Atomic mass number is:",
+            "wrongAnswers": [
+                "Total numbers of Proton in nucleus",
+                "Total number of Electron",
+                "Sum of Electron & Neutron"
+            ],
+            "rightAnswers": [
+                "Sum of Proton & Neutron"
+            ],
+            "tips": [
+                "The atomic mass number is the sum of protons and neutrons in an atom's nucleus."
+            ]
+        },
+        {
+            "question": "Well Christmas tree is basically a combination of",
+            "wrongAnswers": [
+                "Flow lines",
+                "Production tubing",
+                "None of these"
+            ],
+            "rightAnswers": [
+                "Valves"
+            ],
+            "tips": [
+                "A well Christmas tree is an assembly of valves, spools, and fittings used for oil well control."
+            ]
+        },
+        {
+            "question": "Which valve is used for the purpose of fluid controlling?",
+            "wrongAnswers": [
+                "Gate Valve",
+                "Globe valve",
+                "Check valve"
+            ],
+            "rightAnswers": [
+                "All of these"
+            ],
+            "tips": [
+                "Gate valves, globe valves, and check valves are all used to control fluid flow."
+            ]
+        },
+        {
+            "question": "A Gross calorific value of gas is always",
+            "wrongAnswers": [
+                "Lower than Net calorific value",
+                "Equal to Net calorific value",
+                "Square of the Net calorific value"
+            ],
+            "rightAnswers": [
+                "Greater than Net calorific value"
+            ],
+            "tips": [
+                "Gross calorific value is always greater than net calorific value as it includes the latent heat of vaporization."
             ]
         }
     ]

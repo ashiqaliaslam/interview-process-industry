@@ -185,6 +185,20 @@
                 "2×10⁶"
             ],
             "tips": []
+        },
+        {
+            "question": "The dimensions of the cover of your Science book are: Length 30cm, Width 10cm, thickness of book 2cm. What is the area of the front cover?",
+            "wrongAnswers": [
+                "300 cm",
+                "600 cm",
+                "20 cm"
+            ],
+            "rightAnswers": [
+                "300 cm²"
+            ],
+            "tips": [
+                "The area of the front cover is calculated by multiplying length by width: 30 cm * 10 cm = 300 cm²."
+            ]
         }
     ]
 }
