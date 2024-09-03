@@ -1,30 +1,189 @@
 {
     "questions": [
         {
-            "question": "What is hammering? Why does it occur? How can it be avoided?",
+            "question": "Explain the phenomenon of cavitation in a centrifugal pump.",
             "tips": [
-                "Tip 1",
-                "Tip 2"
+                "Cavitation occurs when vapor bubbles form and collapse inside the pump.",
+                "Causes: Low pressure or high temperature at the suction side.",
+                "Effects: Damage to impeller, noise, and vibration.",
+                "Prevent by ensuring sufficient NPSH, maintaining proper suction conditions."
             ]
         },
         {
-            "question": "What does NPSH means? Why si ti important?",
+            "question": "What are the main equipment of a distillation loop?",
             "tips": [
-     
+                "Main equipment includes distillation column, reboiler, and condenser.",
+                "Also involves reflux drum, pumps, and control valves.",
+                "Columns separate components based on boiling points."
+            ]
+        },
+        {
+            "question": "Explain the principle of the flow regulation loop, by using a simple drawing.",
+            "tips": [
+                "Flow regulation loop controls the flow rate of a fluid.",
+                "Consists of a flow sensor, controller, and control valve.",
+                "Sensor measures flow, controller adjusts valve to maintain setpoint.",
+                "Diagram: [Flow Sensor] -> [Controller] -> [Control Valve]"
+            ]
+        },
+        {
+            "question": "What does NPSH mean? Why is it important?",
+            "tips": [
+                "NPSH: Net Positive Suction Head.",
+                "NPSH Available (NPSHA): Pressure at pump suction.",
+                "NPSH Required (NPSHR): Minimum pressure to avoid cavitation.",
+                "Ensures proper pump operation, prevents cavitation."
             ]
         },
         {
             "question": "What is draft in a furnace? Explain Natural draft.",
             "tips": [
-            
+                "Draft: Pressure difference to draw air/gases through furnace.",
+                "Natural draft: relies on temperature difference and chimney height to create airflow, no mechanical fans.",
+                "Hot gases rise, creating a pressure difference."
             ]
         },
         {
-            "question": "What si hydrotest and where si it used?",
+            "question": "What is hydrotest and where is it used?",
             "tips": [
-
+                "Hydrotest: Pressure test using water.",
+                "Used to check leaks and strength in pipelines, vessels.",
+                "Ensures safety and integrity before operation."
             ]
-        }
+        },
+        {
+            "question": "How do you clean pipes after construction?",
+            "tips": [
+                "Methods: Flushing, blowing, pigging, chemical cleaning.",
+                "Flushing uses water to remove debris.",
+                "Blowing uses air or steam to cleanup gas lines",
+                "Pigging uses devices (pigs) to scrub and clean.",
+                "Chemical cleaning dissolves contaminants."
+            ]
+        },
+        {
+            "question": "How is Instrument loop check performed?",
+            "tips": [
+                "Basically verify signal transmission from sensor to controller to actuator.",
+                "Functional test: verify instrument operation under simulated conditions.",
+                "Calibration: compare instrument readings to a known standard.",
+                "Range check: ensure instrument operates within its specified range.",
+                "Accuracy check: verify accuracy of instrument readings.",
+                "Response time check: measure time for instrument to respond to changes."
+            ]
+        },
+        {
+            "question": "Name types of trays in distillation towers.",
+            "tips": [
+                "Types: Sieve trays, valve trays, bubble cap trays.",
+                "Bubble cap tray: vapor passes through caps and bubbles through liquid.",
+                "Sieve tray: vapor passes through holes in the tray and bubbles through liquid.",
+                "Valve tray: valves open and close to allow vapor to pass through liquid."
+            ]
+        },
 
+      {
+        "question": "Explain the phenomenon of ‘surge’ in a centrifugal compressor and how to prevent it?",
+        "tips": [
+            "Surge in a centrifugal compressor occurs when the flow rate falls below a critical level.",
+            "It results in flow reversal and can cause severe mechanical damage.",
+            "To prevent surge, maintain the flow above the surge line using anti-surge control systems.",
+            "Install surge control valves and ensure proper system design."
+        ]
+      },
+      {
+        "question": "What is H2S? Explain the importance between a range of 0-10 ppm and above 10 ppm?",
+        "tips": [
+         "H2S, or hydrogen sulfide, is a toxic and flammable gas.",
+         "At 0-10 ppm, it has a noticeable rotten egg smell and can cause irritation to the eyes, nose, and throat.",
+          "Above 10 ppm, it can cause severe health effects and is considered dangerous.",
+          "Strict safety measures must be in place to monitor and control H2S levels, including personal protective equipment, ventilation, and emergency procedures."
+
+        ]
+      },
+      {
+        "question": "What is hammering? Why does it occur? How can it be avoided?",
+        "tips": [
+            "Condensate hammering occurs when steam condenses into liquid water.",
+            "This is often caused by sudden changes in flow rate or temperature, such as when a valve is closed rapidly or a steam trap fails.",
+            "It can result in loud banging noises, vibrations, and potential damage to the steam system.",
+            "To prevent condensate hammering, ensure proper steam trap installation to remove condensate efficiently."
+
+        ]
+      },
+      {
+        "question": "What is the purpose of doing a nitrogen purge for on equipment or unit?",
+        "tips": [
+            "Nitrogen purge removes oxygen and other contaminants from equipments to prevent fires, explosions, or other hazards.",
+            "It prevents oxidation and corrosion during shutdown or maintenance.",
+            "Nitrogen is a non-flammable and inert gas that can safely displace oxygen without creating a hazardous atmosphere.",
+          "It is essential before opening equipment for inspection or repair."
+
+        ]
+      },
+      {
+        "question": "What is Flash Point? What is Kerojet flash specification?",
+        "tips": [
+          "Flash point is the lowest temperature at which a liquid will produce sufficient vapor to form an ignitable mixture with air.",
+          "Kerojet fuel has a flash point specification to ensure it is safe to handle and transport.",
+          "The flash point of Kerojet fuel is typically higher than that of gasoline to reduce the risk of ignition."
+        ]
+      },
+      {
+        "question": "What is the purpose of pumparound?",
+        "tips": [
+          "Pumparound is a process used in distillation columns to improve separation efficiency.",
+          "It involves withdrawing a portion of the liquid from the column and returning it to a lower stage.",
+          "This helps to maintain a more uniform temperature profile in the column and improve product purity."
+        ]
+      },
+      {
+        "question": "What would cause: 1. Catalyst poisoning / 2. Catalyst aging?",
+        "tips": [
+          "Catalyst poisoning occurs when contaminants in the feedstock react with the catalyst, reducing its activity.",
+          "Common causes of catalyst poisoning include sulfur compounds, heavy metals, and water.",
+          "",
+          "Catalyst aging is a natural process that occurs over time, leading to a gradual decline in catalyst activity.",
+          "Aging can be accelerated by high temperatures, excessive pressure, and exposure to contaminants."
+        ]
+      },
+      {
+        "question": "Why is RVP important?",
+        "tips": [
+            "RVP, or Reid Vapor Pressure, measures the volatility of gasoline.",
+            "used to stablize the gasoline products like slobe",
+            "Higher RVP indicates higher evaporation rate.",
+            "Control RVP to meet environmental regulations and performance standards."
+ ]
+      },
+      {
+        "question": "What are the important checks before starting a centrifugal compressor?",
+        "tips": [
+            "Ensure that all safety valves are operational.",
+            "Ensure all auxiliaries are in service",
+            "eg, Lube oil, Sealing System, Cooling Water",
+            "Ensure Compressor casing drains are open for any accumulated liquid",
+            "Ensure the suction and discharge isolations are open.",
+            "inspect for leaks.",
+            "Ensure that the anti-surge control system is active."
+        ]
+      },
+      {
+        "question": "How to put centrifugal pump in stand-by after maintenance?",
+        "tips": [
+            "Ensure the pump is properly aligned and lubricated.",
+            "Fill the pump casing with liquid to avoid dry running.",
+            "Take sealing system in service",
+            "Open the discharge valve to put in ready state.",
+            "Keep the suction valve open and the pump primed for immediate use."
+        ]
+      }
+      
     ]
-}
+  }
+
+
+
+
+
+
