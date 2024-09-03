@@ -145,19 +145,34 @@
             "rightAnswers": [
                 "280m"
             ],
-            "tips": []
+            "tips": [
+                "Calculate the Perimeter of the Square Area",
+                "Perimeter (P) = 4 × side length",
+                "P = 4 × 70 m = 280 m",
+                "",
+                "Calculate the Number of Warning Flags Needed",
+                "Number of flags = Perimeter / Distance between flags",
+                "Number of flags = 280 m / 8 m/flag = 35 flags",
+                "",
+                "Determine the Length of Rope Needed",
+                "Length of rope needed = Perimeter of the square area"
+            ]
         },
         {
             "question": "How many flags will you need?",
             "wrongAnswers": [
                 "42",
                 "38",
-                "35"
-            ],
-            "rightAnswers": [
                 "40"
             ],
-            "tips": []
+            "rightAnswers": [
+                "35"
+            ],
+            "tips": [
+                "Calculate the Number of Warning Flags Needed",
+                "Number of flags = Perimeter / Distance between flags",
+                "Number of flags = 280 m / 8 m/flag = 35 flags"
+            ]
         },
         {
             "question": "The LNG Plant produces 220 T/H of LNG. What is the annual production?",
@@ -167,7 +182,7 @@
                 "5×10⁶"
             ],
             "rightAnswers": [
-                "2.2×10⁶"
+                "2×10⁶"
             ],
             "tips": []
         }

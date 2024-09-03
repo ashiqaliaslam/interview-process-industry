@@ -1,32 +1,464 @@
 {
     "questions": [
         {
-            "question": "What si the purpose of Deethanizer column?",
+            "question": "What is the purpose of depropaniser column?",
             "wrongAnswers": [
                 "Extract heavy ends from condensates.",
-                "Produce C4 make up",
-                "Produce C5 product"
+                "Produce C 4 make up.",
+                "Produce C2 product."
             ],
             "rightAnswers": [
                 "Extract light ends from condensates."
             ],
             "tips": [
-                "Tip 1",
-                "Tip 2"
+                "Depropaniser columns are used to separate propane and lighter hydrocarbons from heavier components."
             ]
         },
         {
-            "question": "What RVP Stands for?",
+            "question": "What is the purpose of an amine solution?",
             "wrongAnswers": [
-                "Relative Vapor Pressure",
-                "Related Vapor Pressure",
-                "Reed Volumetric Pressure"
+                "Remove hydrocarbon.",
+                "Remove Mercaptan.",
+                "Remove moisture."
+            ],
+            "rightAnswers": [
+                "Remove CO2 ,and H2s"
+            ],
+            "tips": [
+                "Amine solutions are primarily used to remove CO2 and H2S from gases."
+            ]
+        },
+        {
+            "question": "What is the hazard of a confined space?",
+            "wrongAnswers": [
+                "High temperature.",
+                "High Humidity.",
+                "High pressure."
+            ],
+            "rightAnswers": [
+                "Oxygen deficiency."
+            ],
+            "tips": [
+                "Confined spaces often pose an oxygen deficiency risk, which can be dangerous."
+            ]
+        },
+        {
+            "question": "What is the purpose of a PCV?",
+            "wrongAnswers": [
+                "A valve to control flow.",
+                "A valve for isolation.",
+                "A valve for sampling."
+            ],
+            "rightAnswers": [
+                "A valve to control the pressure."
+            ],
+            "tips": [
+                "PCV stands for Pressure Control Valve, used to regulate system pressure."
+            ]
+        },
+        {
+            "question": "What is a reboiler?",
+            "wrongAnswers": [
+                "A reactor.",
+                "A separator.",
+                "A vessel to separate liquids."
+            ],
+            "rightAnswers": [
+                "A heat exchanger."
+            ],
+            "tips": [
+                "A reboiler is a type of heat exchanger used to provide heat to the bottom of distillation columns."
+            ]
+        },
+        {
+            "question": "A thermometer is reading 65 °C .What is the reading in °F?",
+            "wrongAnswers": [
+                "120 °F",
+                "94 °F",
+                "110 °F"
+            ],
+            "rightAnswers": [
+                "149 °F"
+            ],
+            "tips": [
+                "To convert Celsius to Fahrenheit, use the formula F = (C × 9/5) + 32."
+            ]
+        },
+        {
+            "question": "Which parameter gives you the rate of choking in a strainer?",
+            "wrongAnswers": [
+                "Pressure.",
+                "Flow.",
+                "Temperature"
+            ],
+            "rightAnswers": [
+                "Delta pressure DP"
+            ],
+            "tips": [
+                "Delta pressure across a strainer indicates the degree of clogging."
+            ]
+        },
+        {
+            "question": "Positive displacement pump is used for :",
+            "wrongAnswers": [
+                "High flow.",
+                "High temperature.",
+                "Accurate flow."
+            ],
+            "rightAnswers": [
+                "High pressure."
+            ],
+            "tips": [
+                "Positive displacement pumps are ideal for applications requiring high pressure."
+            ]
+        },
+        {
+            "question": "A centrifugal pump is used for:",
+            "wrongAnswers": [
+                "High pressure.",
+                "High temperature.",
+                "Vacuum discharge."
+            ],
+            "rightAnswers": [
+                "High flow."
+            ],
+            "tips": [
+                "Centrifugal pumps are commonly used for high flow applications."
+            ]
+        },
+        {
+            "question": "One INCH equals to how many CM?",
+            "wrongAnswers": [
+                "1",
+                "4",
+                "3.5"
+            ],
+            "rightAnswers": [
+                "2.5"
+            ],
+            "tips": [
+                "One inch is equal to 2.54 centimeters."
+            ]
+        },
+        {
+            "question": "If Cooling Water is lost in the condenser of a column, how do you know it?",
+            "wrongAnswers": [
+            ],
+            "rightAnswers": [
+                "High level in the bottom of the column",
+                "High temperature.",
+                "High pressure.",
+                "All of the above."
+            ],
+            "tips": [
+                "In my point of view High level is not indication of CW Failure"
+            ]
+        },
+        {
+            "question": "What does PPE stand for?",
+            "wrongAnswers": [
+                "Personnel Protective Equipment",
+                "Plant Protective Equipment",
+                "Preferred Protective Equipment"
+            ],
+            "rightAnswers": [
+                "Personal Protective Equipment"
+            ],
+            "tips": [
+                "PPE stands for Personal Protective Equipment, essential for safety in hazardous environments."
+            ]
+        },
+        {
+            "question": "How do you come to know failure of primary mechanical seal in a centrifugal pump?",
+            "wrongAnswers": [
+                "Primary seal pot level will increase and secondary seal pot level increase",
+                "Secondary seal pot level decrease and primary seal pot level decrease",
+                "Secondary seal pot level increase and primary seal pot level decrease"
+            ],
+            "rightAnswers": [
+                "Primary seal pot level will increase and secondary seal pot level decrease"
+            ],
+            "tips": [
+                "A failing primary mechanical seal causes an increase in its pot level and a decrease in the secondary pot level."
+            ]
+        },
+        {
+            "question": "What is the purpose of Deethanizer column?",
+            "wrongAnswers": [
+                "Extract heavy ends from condensates.",
+                "Produce C4 make up.",
+                "Produce C5 product."
+            ],
+            "rightAnswers": [
+                "Extract light ends from condensates."
+            ],
+            "tips": [
+                "Deethanizer columns are used to separate light hydrocarbons like ethane from heavier components in the feed."
+            ]
+        },
+        {
+            "question": "What RVP stands for?",
+            "wrongAnswers": [
+                "Relative Vapour Pressure.",
+                "Related Vapour Pressure.",
+                "Reed volumetric Pressure."
             ],
             "rightAnswers": [
                 "None of the above."
             ],
             "tips": [
- 
+                "RVP stands for Reid Vapor Pressure, a measure of gasoline's volatility."
+            ]
+        },
+        {
+            "question": "What is your action if plant siren sounds for emergency?",
+            "wrongAnswers": [
+                "Protect yourself.",
+                "Proceed to gathering point.",
+                "Do head count."
+            ],
+            "rightAnswers": [
+                "All of the above."
+            ],
+            "tips": [
+                "In an emergency, all these actions are important for safety and accountability."
+            ]
+        },
+        {
+            "question": "What is the purpose of the mole sieve dryers?",
+            "wrongAnswers": [
+                "Remove hydrocarbon.",
+                "Remove CO2.",
+                "Remove Mercaptan."
+            ],
+            "rightAnswers": [
+                "Remove moisture."
+            ],
+            "tips": [
+                "Molecular sieve dryers are used to remove water (moisture) from gases."
+            ]
+        },
+        {
+            "question": "To change over pumps from A to B.",
+            "wrongAnswers": [
+                "Stop A and start B.",
+                "Start B and stop A.",
+                "Start B and keep A running."
+            ],
+            "rightAnswers": [
+                "Keep A running, start B for a while then stop A."
+            ],
+            "tips": [
+                "Ensures smooth transition and avoids process interruptions."
+            ]
+        },
+        {
+            "question": "You discover a fire in your area. You will:",
+            "wrongAnswers": [
+                "Extinguish it.",
+                "Inform control room / Fire department.",
+                "Escape to safe location."
+            ],
+            "rightAnswers": [
+                "Inform control room / Fire department extinguish."
+            ],
+            "tips": [
+                "It is crucial to inform the control room and fire department before attempting to extinguish the fire."
+            ]
+        },
+        {
+            "question": "Hot work permit means that the work that will take place:",
+            "wrongAnswers": [
+                "Is performed in hot weather condition.",
+                "Is performed with hot tools.",
+                "Is performed on equipment working at high temperature."
+            ],
+            "rightAnswers": [
+                "Is performed with a risk of generating a spark or flame."
+            ],
+            "tips": [
+                "Hot work permits are issued for tasks that may produce ignition sources."
+            ]
+        },
+        {
+            "question": "What is a distillation column?",
+            "wrongAnswers": [
+                "A pump.",
+                "A separator.",
+                "A vessel to separate solids from liquids."
+            ],
+            "rightAnswers": [
+                "A vessel to separate liquids."
+            ],
+            "tips": [
+                "Distillation columns are used to separate mixtures of liquids based on their boiling points."
+            ]
+        },
+        {
+            "question": "A thermometer is reading 201°F. What is the reading in Celsius?",
+            "wrongAnswers": [
+                "68°C",
+                "120°C",
+                "110°C"
+            ],
+            "rightAnswers": [
+                "94°C"
+            ],
+            "tips": [
+                "To convert Fahrenheit to Celsius: (201 - 32) * 5/9 = 94°C."
+            ]
+        },
+        {
+            "question": "How do you know that a centrifuge pump cavitate?",
+            "wrongAnswers": [
+                "High discharge pressure.",
+                "The pump is stopped.",
+                "Amps are maximum."
+            ],
+            "rightAnswers": [
+                "Unsteady flow."
+            ],
+            "tips": [
+                "Cavitation in a pump causes unsteady flow and noise due to vapor bubbles forming and collapsing."
+            ]
+        },
+        {
+            "question": "How do you know that the pump suction strainer is choked?",
+            "wrongAnswers": [
+                "Low flow and suction valve shut.",
+                "High flow and pump noisy.",
+                "Discharge valve shut and high Amps level."
+            ],
+            "rightAnswers": [
+                "No flow and discharge pressure minimum."
+            ],
+            "tips": [
+                "A choked suction strainer leads to no flow and minimal discharge pressure."
+            ]
+        },
+        {
+            "question": "To start a centrifugal pump you:",
+            "wrongAnswers": [
+                "Open discharge valve and close suction valve.",
+                "Open drain valve and open discharge valve.",
+                "Close drain valve and open vent valve."
+            ],
+            "rightAnswers": [
+                "Open suction valve and crack open discharge valve."
+            ],
+            "tips": [
+                "Ensuring proper priming and avoiding dry running of the pump."
+            ]
+        },
+        {
+            "question": "A PSV (or PRV) is used for:",
+            "wrongAnswers": [
+                "Controlling circuit pressure.",
+                "Controlling circuit flow.",
+                "Prevent vacuum into the circuit."
+            ],
+            "rightAnswers": [
+                "Avoiding circuit over pressure."
+            ],
+            "tips": [
+                "PSVs (Pressure Safety Valves) are designed to release pressure to avoid overpressure scenarios."
+            ]
+        },
+        {
+            "question": "An endothermic reaction will:",
+            "wrongAnswers": [
+                "increase temperature",
+                "keeps pressure equal."
+            ],
+            "rightAnswers": [
+                "decrease temperature"
+            ],
+            "tips": [
+                "Endothermic reactions absorb heat, causing a temperature drop."
+            ]
+        },
+        {
+            "question": "Positive displacement pump is used for:",
+            "wrongAnswers": [
+                "High pressure.",
+                "High flow.",
+                "High temperature."
+            ],
+            "rightAnswers": [
+                "Accurate flow."
+            ],
+            "tips": [
+                "Positive displacement pumps provide precise flow rates regardless of pressure."
+            ]
+        },
+        {
+            "question": "A centrifugal pump is used for:",
+            "wrongAnswers": [
+                "High pressure.",
+                "High temperature.",
+                "Vacuum discharge."
+            ],
+            "rightAnswers": [
+                "High flow."
+            ],
+            "tips": [
+                "Centrifugal pumps are ideal for moving large volumes of fluid at lower pressures."
+            ]
+        },
+        {
+            "question": "The control room asked you to physically check outside the level in a vessel. What do you check?",
+            "wrongAnswers": [
+                "LT",
+                "LI",
+                "LC"
+            ],
+            "rightAnswers": [
+                "LG"
+            ],
+            "tips": [
+                "LG stands for Level Gauge, which is used to manually check the level in a vessel."
+            ]
+        },
+        {
+            "question": "One bar is equal to how many PSI G?",
+            "wrongAnswers": [
+                "13",
+                "12",
+                "15.2"
+            ],
+            "rightAnswers": [
+                "14.5"
+            ],
+            "tips": [
+                "1 bar is approximately equal to 14.5 PSI (Pounds per Square Inch)."
+            ]
+        },
+        {
+            "question": "How do you know that steam is lost in the reboiler of a column?",
+            "wrongAnswers": [
+            ],
+            "rightAnswers": [
+                "Low pressure.",
+                "Low temperature.",
+                "High level in the column base.",
+                "All of the above."
+            ],
+            "tips": [
+                "Loss of steam leads to reduced heat input, causing low temperature and pressure, and an accumulation of liquid at the base."
+            ]
+        },
+        {
+            "question": "How do you put PRV or PSV in service?",
+            "wrongAnswers": [
+                "Open inlet isolation valve then open outlet isolation valve",
+                "Open by-pass then open inlet and outlet isolation valves",
+                "Open inlet and outlet valves simultaneously"
+            ],
+            "rightAnswers": [
+                "Open outlet isolation valve then open inlet isolation valve"
+            ],
+            "tips": [
+                "Opening the outlet first prevents trapped pressure from being released suddenly when the inlet is opened."
             ]
         }
     ]
