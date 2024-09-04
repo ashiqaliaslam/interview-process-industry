@@ -397,18 +397,6 @@
             "tips": []
         },
         {
-            "question": "This beer tastes __________.",
-            "wrongAnswers": [
-                "badly",
-                "well",
-                "normally"
-            ],
-            "rightAnswers": [
-                "lovely"
-            ],
-            "tips": []
-        },
-        {
             "question": "In life __________ can make a mistake; we’re all human.",
             "wrongAnswers": [
                 "some people",
@@ -457,30 +445,6 @@
             "tips": []
         },
         {
-            "question": "They said they __________ come, but they didn’t.",
-            "wrongAnswers": [
-                "can",
-                "will",
-                "may"
-            ],
-            "rightAnswers": [
-                "might"
-            ],
-            "tips": []
-        },
-        {
-            "question": "They were __________ hard questions that I had no chance.",
-            "wrongAnswers": [
-                "some",
-                "so",
-                "quite"
-            ],
-            "rightAnswers": [
-                "such"
-            ],
-            "tips": []
-        },
-        {
             "question": "I don't have a cent to give you. I __________ bought a new computer.",
             "wrongAnswers": [
                 "just buy",
@@ -501,30 +465,6 @@
             ],
             "rightAnswers": [
                 "up"
-            ],
-            "tips": []
-        },
-        {
-            "question": "It's all right, we __________ hurry. We have plenty of time.",
-            "wrongAnswers": [
-                "mustn't",
-                "shouldn't",
-                "can't"
-            ],
-            "rightAnswers": [
-                "needn't"
-            ],
-            "tips": []
-        },
-        {
-            "question": "You have a terrible fever! __________ call a doctor?",
-            "wrongAnswers": [
-                "Do I",
-                "Must I",
-                "Will I"
-            ],
-            "rightAnswers": [
-                "Shall I"
             ],
             "tips": []
         },
@@ -792,18 +732,6 @@
             "tips": []
         },
         {
-            "question": "By the time the police arrived, the thief _____________.",
-            "wrongAnswers": [
-                "has escaped",
-                "escapes",
-                "was escaping"
-            ],
-            "rightAnswers": [
-                "had escaped"
-            ],
-            "tips": []
-        },
-        {
             "question": "I will call you when he _____________.",
             "wrongAnswers": [
                 "arrive",
@@ -811,18 +739,6 @@
             ],
             "rightAnswers": [
                 "arrives"
-            ],
-            "tips": []
-        },
-        {
-            "question": "They _____________ their homework by the time I arrived.",
-            "wrongAnswers": [
-                "did",
-                "do",
-                "have done"
-            ],
-            "rightAnswers": [
-                "had done"
             ],
             "tips": []
         },
@@ -1359,17 +1275,6 @@
             "tips": []
         },
         {
-            "question": "I _____________ not go to the party last night.",
-            "wrongAnswers": [
-                "do",
-                "did"
-            ],
-            "rightAnswers": [
-                "did not"
-            ],
-            "tips": []
-        },
-        {
             "question": "She _____________ her homework before going to bed.",
             "wrongAnswers": [
                 "do",
@@ -1388,17 +1293,6 @@
             ],
             "rightAnswers": [
                 "was"
-            ],
-            "tips": []
-        },
-        {
-            "question": "He _____________ not see her for a long time.",
-            "wrongAnswers": [
-                "have",
-                "had"
-            ],
-            "rightAnswers": [
-                "has"
             ],
             "tips": []
         },
@@ -1412,149 +1306,7 @@
                 "was"
             ],
             "tips": []
-        },
-        {
-            "question": "She _____________ the letter before I arrived.",
-            "wrongAnswers": [
-                "writes",
-                "written"
-            ],
-            "rightAnswers": [
-                "wrote"
-            ],
-            "tips": []
-        },
-        {
-            "question": "The project _____________ by the time we get there.",
-            "wrongAnswers": [
-                "finished",
-                "was finished"
-            ],
-            "rightAnswers": [
-                "will have finished"
-            ],
-            "tips": []
-        },
-        {
-            "question": "I _____________ never seen such a beautiful sunset.",
-            "wrongAnswers": [
-                "has",
-                "had"
-            ],
-            "rightAnswers": [
-                "have"
-            ],
-            "tips": []
-        },
-        {
-            "question": "He _____________ to the store yesterday.",
-            "wrongAnswers": [
-                "go",
-                "gone"
-            ],
-            "rightAnswers": [
-                "went"
-            ],
-            "tips": []
-        },
-        {
-            "question": "They _____________ lunch when the guests arrived.",
-            "wrongAnswers": [
-                "have",
-                "was having"
-            ],
-            "rightAnswers": [
-                "were having"
-            ],
-            "tips": []
-        },
-        {
-            "question": "The car _____________ by the mechanic.",
-            "wrongAnswers": [
-                "fix",
-                "fixes"
-            ],
-            "rightAnswers": [
-                "was fixed"
-            ],
-            "tips": []
-        },
-        {
-            "question": "She _____________ playing the piano when I arrived.",
-            "wrongAnswers": [
-                "is",
-                "has"
-            ],
-            "rightAnswers": [
-                "was"
-            ],
-            "tips": []
-        },
-        {
-            "question": "By the time he gets home, I _____________ dinner.",
-            "wrongAnswers": [
-                "will cook",
-                "cooked"
-            ],
-            "rightAnswers": [
-                "will have cooked"
-            ],
-            "tips": []
-        },
-        {
-            "question": "I _____________ never been to that place before.",
-            "wrongAnswers": [
-                "has",
-                "had"
-            ],
-            "rightAnswers": [
-                "have"
-            ],
-            "tips": []
-        },
-        {
-            "question": "The movie _____________ by many people.",
-            "wrongAnswers": [
-                "seen",
-                "see"
-            ],
-            "rightAnswers": [
-                "was seen"
-            ],
-            "tips": []
-        },
-        {
-            "question": "I _____________ not go to the party last night.",
-            "wrongAnswers": [
-                "do",
-                "did"
-            ],
-            "rightAnswers": [
-                "did not"
-            ],
-            "tips": []
-        },
-        {
-            "question": "She _____________ her homework before going to bed.",
-            "wrongAnswers": [
-                "do",
-                "does"
-            ],
-            "rightAnswers": [
-                "did"
-            ],
-            "tips": []
-        },
-        {
-            "question": "The cake _____________ baked by my mom.",
-            "wrongAnswers": [
-                "is",
-                "will"
-            ],
-            "rightAnswers": [
-                "was"
-            ],
-            "tips": []
         }
+
     ]
 }
