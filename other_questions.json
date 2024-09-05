@@ -1,10 +1,443 @@
 {
     "questions": [
         {
-            "question": "Please draw a comprehensive drawing of the plant where you are working at present.",
+            "question": "What is absolute pressure?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
             "tips": [
+                "The pressure measured relative to a perfect vacuum. Absolute pressure = gauge pressure + atmospheric pressure."
             ]
         },
+        {
+            "question": "What is absolute temperature?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A temperature measured from absolute zero, using the Kelvin scale."
+            ]
+        },
+        {
+            "question": "What is the absorption process?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A process where one substance is absorbed into the bulk of another substance, such as gas absorbed by a liquid."
+            ]
+        },
+        {
+            "question": "What is the adsorption process?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A process where molecules adhere to the surface of a solid or liquid."
+            ]
+        },
+        {
+            "question": "What is an amine?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Organic compounds derived from ammonia, used in gas treatment processes to remove CO2 and H2S."
+            ]
+        },
+        {
+            "question": "What is associated natural gas?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Natural gas found in association with crude oil, either dissolved in the oil or as a gas cap above the oil."
+            ]
+        },
+        {
+            "question": "What is atmospheric pressure?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The pressure exerted by the weight of the atmosphere, approximately 14.7 psi at sea level."
+            ]
+        },
+        {
+            "question": "What is back pressure?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The pressure opposing the desired flow of fluids in a system, such as in engines or pipelines."
+            ]
+        },
+        {
+            "question": "What is a barrel?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A unit of measure for crude oil, equivalent to 42 US gallons or 159 liters."
+            ]
+        },
+        {
+            "question": "What are battery limits?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The boundaries defining the area within which a contractor supplies all services and beyond which the refinery takes over."
+            ]
+        },
+        {
+            "question": "What is a block valve?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A valve used to stop the flow of fluids for isolation purposes."
+            ]
+        },
+        {
+            "question": "What is blowdown?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The process of removing water, impurities, or accumulated material from equipment."
+            ]
+        },
+        {
+            "question": "What is the boiling point (at a given pressure)?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The temperature at which a liquid's vapor pressure equals the external pressure, causing it to boil."
+            ]
+        },
+        {
+            "question": "What is boxin?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The act of isolating equipment by closing valves."
+            ]
+        },
+        {
+            "question": "What is boxup?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The act of reassembling and securing equipment after maintenance or inspection."
+            ]
+        },
+        {
+            "question": "What is a buffer?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "1. A vessel for temporary storage of liquid. 2. A chemical that stabilizes pH. 3. A device to polish floors. 4. A naval term for a deck officer."
+            ]
+        },
+        {
+            "question": "What is a byproduct?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A secondary product derived from a manufacturing process, not the primary product."
+            ]
+        },
+        {
+            "question": "What is calibration?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The process of adjusting and verifying the accuracy of a measurement instrument by comparison with a standard."
+            ]
+        },
+        {
+            "question": "What is a catalyst?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A substance that increases the rate of a chemical reaction without being consumed in the process."
+            ]
+        },
+        {
+            "question": "What is a coalescer?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A device that separates emulsified liquids by aggregating small droplets into larger ones for easier removal."
+            ]
+        },
+        {
+            "question": "What is combustion?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The process of burning a substance in the presence of oxygen to produce heat and light."
+            ]
+        },
+        {
+            "question": "What is compression ratio?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The ratio of the total volume of a cylinder when the piston is at the bottom of its stroke to the volume when the piston is at the top."
+            ]
+        },
+        {
+            "question": "What is cracking?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A refining process that breaks down large hydrocarbon molecules into smaller ones, such as in gasoline production."
+            ]
+        },
+        {
+            "question": "What is critical pressure?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The pressure required to liquefy a gas at its critical temperature."
+            ]
+        },
+        {
+            "question": "What is critical temperature?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The highest temperature at which a gas can be liquefied by pressure alone."
+            ]
+        },
+        {
+            "question": "What is critical velocity?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The velocity at which the flow of a fluid changes from laminar to turbulent."
+            ]
+        },
+        {
+            "question": "What is dehydration?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The removal of water from a substance or mixture."
+            ]
+        },
+        {
+            "question": "What is distillation?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A process that separates components of a liquid mixture by boiling and condensation."
+            ]
+        },
+        {
+            "question": "What is dry gas?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Natural gas that does not contain significant amounts of liquid hydrocarbons."
+            ]
+        },
+        {
+            "question": "What is dew point?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The temperature at which vapor begins to condense into a liquid."
+            ]
+        },
+        {
+            "question": "What is a drain?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A system or device for removing unwanted liquids, such as water or hydrocarbons."
+            ]
+        },
+        {
+            "question": "What is a dry test?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A pressure test performed with air instead of liquid."
+            ]
+        },
+        {
+            "question": "What is a drum?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A cylindrical vessel used for storage or separation of liquids and gases."
+            ]
+        },
+        {
+            "question": "What is a dummy?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A blank flange used to close off a pipe or vessel opening."
+            ]
+        },
+        {
+            "question": "What is equilibrium?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A state where the forward and reverse reactions occur at the same rate, resulting in no net change."
+            ]
+        },
+        {
+            "question": "What is feedstock?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The raw material supplied to a processing unit or refinery."
+            ]
+        },
+        {
+            "question": "What is flare?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A device for burning off excess gases safely, typically found on tall stacks."
+            ]
+        },
+        {
+            "question": "What is fractionation?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The process of separating a mixture into its component parts, such as by distillation."
+            ]
+        },
+        {
+            "question": "What is flash point?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The lowest temperature at which a liquid can form an ignitable mixture with air."
+            ]
+        },
+        {
+            "question": "What is freeze point?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The temperature at which a liquid becomes solid."
+            ]
+        },
+        {
+            "question": "What is a fraction?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Any one of the distinct parts of a mixture separated by a refining process."
+            ]
+        },
+        {
+            "question": "What is a fluid?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A substance that can flow, such as a liquid or gas."
+            ]
+        },
+        {
+            "question": "What is a flue?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A pipe or chimney for directing combustion gases away from a fire or furnace."
+            ]
+        },
+        {
+            "question": "What is gasification?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The process of converting a solid or liquid into gas."
+            ]
+        },
+        {
+            "question": "What is a heat exchanger?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A device that transfers heat between two fluids without mixing them."
+            ]
+        },
+        {
+            "question": "What is a hydrocarbon?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A compound made up of hydrogen and carbon atoms, found in petroleum and natural gas."
+            ]
+        },
+        {
+            "question": "What is liquefied natural gas (LNG)?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Natural gas that has been cooled to a liquid state for easier storage and transportation."
+            ]
+        },
+        {
+            "question": "What is a liquid?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A state of matter with a definite volume but no fixed shape, flowing freely."
+            ]
+        },
+        {
+            "question": "What is natural gas?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A mixture of gaseous hydrocarbons, primarily methane, found in underground reservoirs."
+            ]
+        },
+        {
+            "question": "What is pressure?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The force exerted per unit area."
+            ]
+        },
+        {
+            "question": "What is specific gravity?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The ratio of the density of a substance to the density of water (for liquids) or air (for gases)."
+            ]
+        },
+        {
+            "question": "What is viscosity?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A measure of a fluid's resistance to flow."
+            ]
+        },
+        {
+            "question": "What is a volatile substance?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A substance that easily vaporizes at normal temperatures."
+            ]
+        },
+        {
+            "question": "What is a vapor?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The gaseous state of a substance that is typically liquid or solid at room temperature."
+            ]
+        },
+        {
+            "question": "Please draw a comprehensive drawing of the plant where you are working at present.",
+            "tips": []
+        },
+
+
         {
             "question": "What is JSA or JRA?",
             "tips": [
@@ -181,15 +614,6 @@
             ]
         },
         {
-            "question": "What is a Defeat/Force Bridge/Security Bypass?",
-            "tips": [
-                "Used to avoid tripping of critical devices.",
-                "Apply defeat before opening the permit.",
-                "Get approval, inform panel, instrument tech cross-checks tag.",
-                "Close or suspend permit, then normalize defeat."
-            ]
-        },
-        {
             "question": "What is Hazardous Area Classification?",
             "tips": [
                 "Zone 0: Explosive atmosphere present almost all the time.",
@@ -243,6 +667,16 @@
                 "Quenching: Decreasing temperature.",
                 "Starvation: Cutting fuel source.",
                 "Smothering: Cutting oxygen."
+            ]
+        },
+        {
+            "question": "Composition of Inergen Gas?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Nitrogen = 52%",
+                "Argon = 40%",
+                "Carbon Dioxide = 8%"
             ]
         }
     ]
