@@ -183,3 +183,27 @@ Your achievements in your career
         "Mitigate: Adjust controls, perform maintenance, follow safety procedures."
     ]
 },
+
+
+
+
+
+
+
+
+        {
+            "question": "What is compression ratio?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "The ratio of the total volume of a cylinder when the piston is at the bottom of its stroke to the volume when the piston is at the top."
+            ]
+        },
+                {
+            "question": "What is equilibrium?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "A state where the forward and reverse reactions occur at the same rate, resulting in no net change."
+            ]
+        },
