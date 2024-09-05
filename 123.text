@@ -1,0 +1,185 @@
+TECHNICAL
+Explain shift hand over and take over and job priorities.
+Tank hand over to Maintenance
+Pump hand over to Maintenance.
+Draw a plant loop like P&ID.
+What is surge in pumps and compressors?
+Explain cavitation in pumps
+What is absolute pressure and gauge pressure.
+Start-up of pumps and compressors
+What is Emergency shut down system how it will work
+Viscosity units
+PH
+Anode Protection and Cathode protection
+Flash point
+ignition temperature
+auto ignition temperature (H2s and Methand)
+Filteration types
+absolute temperature
+dew point & atmospheric dewpoint
+types of heat transfers (convection, conduction, radiation)
+joule thomson effect
+specific heat & latent heat
+corrosion, types of corrosion and preventive methods
+startup of centrifugal compressor
+steam at different levels (saturated, superheated etc)
+DCS basics
+Controller types
+flow rate
+calorific value
+purpose of lubrication
+density units
+conversion of units
+cathodic protection
+control loop types (cascade, split)
+
+
+
+
+
+
+
+PROCESS
+What is the purpose of de-butanizer?
+What is the function of turbo expander?
+What is the difference between absorption and adsorption?
+How to avoid hammering in steam header?
+Define vapour pressure
+
+
+
+HSE
+Define PTW and types of permit used in your industry and Importance of permits.
+Explain responsibilities of each person in PTW, hazards and controls and explain JSA.
+In case of fire what is your action
+What are the requirements of hot job, confined space, working at height
+What is LEL, UEL and IDLH
+What will be LEL required for welding and grinding job
+What will be the requirements for confined jobs
+Preparation of Equipment like pump, tank or pipeline for hot job.
+minimum requirement of oxygen
+TLV, STEL and IDLH of Hydrogen sulphide
+how to prepare equipment for Hot work
+precaution of excavation permit
+
+
+
+
+OTHER
+Introduce your-self.
+Share the emergency scenario in your industry
+What are your job responsibilities
+Any appreciation from the management
+Activities during shift
+What will be your action when your boss give you urgent assignment and some critical safety issue in the plant, how you priorties.
+
+
+Write Log Book
+
+Any incident you involved in ever
+
+Draw area sketch where you are working (Better  Write Parameters also )
+
+Safety related 100% questions I already have shared with answers visit group 
+
+Foaming, causes, indications your actions
+
+Specific trouble shooting as per your CV (prepare areas you mentioned in CV)
+
+Filter handover procedure
+
+Confined Space handover, Purging, LEL,ZED  
+
+Some1 Trapped inside Confined Space... your actions.........................?
+
+Your achievements in your career
+
+
+
+
+
+
+
+
+{
+    "question": "What is Confined space entry 'CSE', why its required, can we avoid CSE if yes give some examples, what are requirements which needs to be completed before CSE (Gas test limits, mostly LEL, H2S and Oxygen). Discuss complete CSE procedure.",
+    "tips": [
+        "CSE is entering an area with limited entry and exit.",
+        "Required for tasks like cleaning, maintenance.",
+        "Can be avoided using remote tools or changing work methods.",
+        "Requirements: Gas tests (LEL, H2S, Oxygen levels).",
+        "Complete procedure: Isolation, Gas testing, Emergency plan, Ventilation, Communication, Continuous monitoring, Watchman present."
+    ]
+},
+{
+    "question": "What is gas manifold system and what is its purpose.",
+    "tips": [
+        "Gas manifold system is a network of pipes and valves.",
+        "Purpose: Distribute gas to different locations efficiently."
+    ]
+},
+{
+    "question": "Production separators, their securities, their emergency handlings.",
+    "tips": [
+        "Production separators separate oil, gas, and water.",
+        "Securities: Pressure relief valves, emergency shutdown systems.",
+        "Emergency handling: Isolate the separator, depressurize, handle leaks."
+    ]
+},
+{
+    "question": "What do you know about Produced water system primary and secondary treatment and produce water injection system what is its specifications (Analysis).",
+    "tips": [
+        "Produced water system treats water from production processes.",
+        "Primary treatment: Removes oil and large particles.",
+        "Secondary treatment: Further cleans water using filters or chemicals.",
+        "Injection system: Injects treated water back into the reservoir."
+    ]
+},
+{
+    "question": "How to take standby filter in Service and isolation procedure for the filter to be taken offline.",
+    "tips": [
+        "To take standby filter in service: Open inlet and outlet valves, ensure proper flow.",
+        "Isolation procedure: Close inlet and outlet valves, depressurize, lockout/tagout."
+    ]
+},
+{
+    "question": "What is pigging and what is its purpose, how many type of pigs.",
+    "tips": [
+        "Pigging is cleaning pipelines using a device called a pig.",
+        "Purpose: Remove buildup, inspect pipes.",
+        "Types of pigs: Utility pigs, inspection pigs, cleaning pigs."
+    ]
+},
+{
+    "question": "What is your responsibility as a field operator.",
+    "tips": [
+        "Monitor equipment, ensure smooth operations.",
+        "Perform regular inspections and maintenance.",
+        "Respond to alarms and emergencies.",
+        "Maintain safety and compliance."
+    ]
+},
+{
+    "question": "Scenario: If you are on round and you find the gas leakage what would be your action, how you will respond.",
+    "tips": [
+        "Stop the job.",
+        "Evacuate the area.",
+        "Inform control room and emergency response team.",
+        "Isolate the leak if safe to do so."
+    ]
+},
+{
+    "question": "What are the hazards in TEG system.",
+    "tips": [
+        "Hazards: Toxic gas release, fire, explosion.",
+        "Control: Proper ventilation, regular maintenance, gas detection systems."
+    ]
+},
+{
+    "question": "How you can identify that your TEG reboiler is not normal. Which parameters you will check and how to mitigate.",
+    "tips": [
+        "Check: Temperature, pressure, flow rates.",
+        "Signs: Abnormal noise, leaks, irregular temperature or pressure.",
+        "Mitigate: Adjust controls, perform maintenance, follow safety procedures."
+    ]
+},

@@ -65,6 +65,7 @@
             "question": "How is Instrument loop check performed?",
             "tips": [
                 "Basically verify signal transmission from sensor to controller to actuator.",
+                "Loop Check: verifies that signal from sensor to controller and back to the actuator is working",
                 "Functional test: verify instrument operation under simulated conditions.",
                 "Calibration: compare instrument readings to a known standard.",
                 "Range check: ensure instrument operates within its specified range.",

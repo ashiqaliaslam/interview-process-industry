@@ -4,6 +4,246 @@
             "question": "Please draw a comprehensive drawing of the plant where you are working at present.",
             "tips": [
             ]
+        },
+        {
+            "question": "What is JSA or JRA?",
+            "tips": [
+                "Job Safety Analysis or Job Risk Assessment.",
+                "Identifies hazards involved in the job and their controls.",
+                "Example: Removing PSV/PRV from Gas Circuit.",
+                "Hazard 1: High Pressure (Energy) - Control: Isolate PRV, depressurise.",
+                "Hazard 2: Flammable, Toxic Gas (Gas Release) - Control: Continuous Gas Monitoring, know wind direction, muster point, exit route.",
+                "Hazard 3: Manual Handling, Hot Surface, pinch points - Control: Use PPEs, follow procedure, let temperature down.",
+                "Hazard 4: Lifting activity (Falling Object) - Control: Use Proper Tool & Technique, barricade area.",
+                "Hazard 5: Weather (high wind, temperature, rain) - Control: Stop job, take rest cycle, follow procedure as per weather condition.",
+                "Minimum 2 persons required to prepare JSA."
+            ]
+        },
+        {
+            "question": "What are the hazards in a Gas Plant?",
+            "tips": [
+                "Unskilled Labour",
+                "Gas Release",
+                "High Pressure",
+                "Hot/Cold Surface",
+                "Pyrophoric Material",
+                "Chemical Exposure",
+                "Slip Trip",
+                "Fall Object (Work at Height)",
+                "Pinch points",
+                "Weather",
+                "Darkness",
+                "Unnecessary Scaffolding",
+                "Use of uncertified tools & equipment"
+            ]
+        },
+        {
+            "question": "What is PSSR?",
+            "tips": [
+                "PSSR stands for Pre-StartUp Safety Review.",
+                "An important tool for safe start-up before commissioning any unit.",
+                "Ensures all permits related to the unit are closed.",
+                "All isolation and confined space certificates related to the unit are closed.",
+                "Disturbed flanges where blinds were inserted have been removed and flanges boxed up with torquing tag provided.",
+                "All vents and drains are closed, and end flanges are boxed up.",
+                "PRVs, BDVs, and isolation valves have car seals provided."
+            ]
+        },
+        {
+            "question": "Composition of Inergen Gas?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Nitrogen = 52%",
+                "Argon = 40%",
+                "Carbon Dioxide = 8%"
+            ]
+        },
+        {
+            "question": "What is PTW System?",
+            "tips": [
+                "Documented procedure.",
+                "Authorizes work to be done.",
+                "Used in operations and maintenance."
+            ]
+        },
+        {
+            "question": "Why do we need Permit?",
+            "tips": [
+                "To maintain and improve safety standards.",
+                "To keep record of non-routine activities.",
+                "To meet HSE standards.",
+                "To avoid incidents and minimize risks.",
+                "To make performing party accountable."
+            ]
+        },
+        {
+            "question": "Write Types of Work Permits.",
+            "tips": [
+                "Hot Work Permit: Involves direct flame, validity 7 days.",
+                "Critical Work Permit: No flame hot work, validity 14 days.",
+                "General Work Permit: Validity 14 days.",
+                "Certificates: Confined Space, Excavation, Vehicle Entry, Diving, Hot Tapping, Temporary Defeat, Isolation."
+            ]
+        },
+        {
+            "question": "Write Confined Space Entry Checks.",
+            "tips": [
+                "Isolation (Method 4).",
+                "Depressurize, drain, flush, purge.",
+                "Emergency rescue plan (with BA set, emergency response team).",
+                "Ventilation plan, lighting arrangement.",
+                "Communication (Motorola, IS rated mobile, rope, torch, signals, whistle).",
+                "Continuous gas testing (initial test by area operator).",
+                "Watchman or Hole Man (entry board time-in time-out)."
+            ]
+        },
+        {
+            "question": "Someone trapped inside confined space, what are your actions as a watchman?",
+            "tips": [
+                "Stop the job.",
+                "Inform rescue team/control room.",
+                "Ensure evacuation of remaining personnel.",
+                "Cancel the permit."
+            ]
+        },
+        {
+            "question": "What are Isolation Methods?",
+            "tips": [
+                "Single isolation.",
+                "Double isolation (positive isolation).",
+                "Block and bleed.",
+                "All three plus blinding."
+            ]
+        },
+        {
+            "question": "What things will you ensure before signing the critical work permit/no flame hot work permit?",
+            "tips": [
+                "Ensure date and expiry.",
+                "Ensure description (equipment tag).",
+                "Open permit in the field (verify location and tag).",
+                "Ensure zero energy (depressurize, purge, flush equipment).",
+                "Gas test done (LEL, H2S, flammability, toxicity).",
+                "Know wind direction, muster point, and safety equipment location.",
+                "Ensure signatures of all concerned authorities."
+            ]
+        },
+        {
+            "question": "Write Permit Attachments.",
+            "tips": [
+                "Job Safety Analysis.",
+                "Isolation Certificate.",
+                "P&ID.",
+                "MSDS.",
+                "Defeat/Bypass/Override form.",
+                "Confined Space Entry Certificate (if applicable).",
+                "Rescue Plan.",
+                "Ventilation Plan.",
+                "Lifting Plan (for critical lifting >10 tons)."
+            ]
+        },
+        {
+            "question": "What is JSA or JRA?",
+            "tips": [
+                "Job Safety Analysis or Job Risk Assessment.",
+                "Hazards involved in the job and their controls (stepwise).",
+                "Example: Removing PSV/PRV from gas circuit.",
+                "Hazard 1: High pressure, control: isolate PRV and depressurize.",
+                "Hazard 2: Flammable/toxic gas, control: continuous gas monitoring.",
+                "Hazard 3: Manual handling, control: use PPEs, follow procedure.",
+                "Hazard 4: Lifting activity, control: use proper tools and techniques.",
+                "Hazard 5: Weather conditions, control: stop job, take rest cycles."
+            ]
+        },
+        {
+            "question": "What is the hierarchy of control for risks and hazards?",
+            "tips": [
+                "Eliminate the risk.",
+                "Minimize the risk.",
+                "Engineering control.",
+                "Administrative control.",
+                "Use PPEs."
+            ]
+        },
+        {
+            "question": "What is a ToolBox Meeting?",
+            "tips": [
+                "Detailed discussion before starting the job.",
+                "Covers work activity, JSA, tools to be used, emergency actions.",
+                "Ensures safety and understanding of responsibilities.",
+                "Permit holder assesses team competency."
+            ]
+        },
+        {
+            "question": "What is a Last Minute Risk Assessment (LMRA)?",
+            "tips": [
+                "Get signatures from all participants."
+            ]
+        },
+        {
+            "question": "What is a Defeat/Force Bridge/Security Bypass?",
+            "tips": [
+                "Used to avoid tripping of critical devices.",
+                "Apply defeat before opening the permit.",
+                "Get approval, inform panel, instrument tech cross-checks tag.",
+                "Close or suspend permit, then normalize defeat."
+            ]
+        },
+        {
+            "question": "What is Hazardous Area Classification?",
+            "tips": [
+                "Zone 0: Explosive atmosphere present almost all the time.",
+                "Zone 1: Explosive atmosphere present occasionally.",
+                "Zone 2: Explosive atmosphere not present in normal operation."
+            ]
+        },
+        {
+            "question": "What is the Gas Detection System?",
+            "tips": [
+                "Installed at possible gas leak locations.",
+                "Types: Single Gas Detectors, Multi Gas Detectors.",
+                "Technologies: Electrochemical, Catalytic, Infrared, Photoionisation."
+            ]
+        },
+        {
+            "question": "What is the Fire Detection System?",
+            "tips": [
+                "Installed at possible fire locations.",
+                "Types: Ionization smoke detectors, photoelectric smoke detectors, combination detectors, heat detectors."
+            ]
+        },
+        {
+            "question": "What is the Fire Suppression System?",
+            "tips": [
+                "Methods: Fire water, fire extinguisher (DCP, CO2), deluge system, foam, FM200.",
+                "FM200: Colorless, odorless, environmentally friendly gas that decreases temperature."
+            ]
+        },
+        {
+            "question": "What is the Fire Triangle?",
+            "tips": [
+                "Fuel.",
+                "Source of ignition (temperature).",
+                "Air (minimum 10% oxygen required for fire)."
+            ]
+        },
+        {
+            "question": "What are the Classes of Fire?",
+            "tips": [
+                "Class A: Wood, paper, cloth (extinguishers: water, DCP, CO2).",
+                "Class B: Flammable gases, volatile liquids (extinguishers: water, CO2, DCP, foam).",
+                "Class C: Electrical fire (extinguishers: CO2, DCP).",
+                "Class D: Metal fire (extinguishers: DCP, CO2, water).",
+                "Class K: Kitchen fire (extinguishers: water, DCP, CO2)."
+            ]
+        },
+        {
+            "question": "What are the methods of fire extinguishing?",
+            "tips": [
+                "Quenching: Decreasing temperature.",
+                "Starvation: Cutting fuel source.",
+                "Smothering: Cutting oxygen."
+            ]
         }
     ]
 }
