@@ -5,6 +5,12 @@
             "tips": []
         },
         {
+            "question": "What is the formula of generator speed, frequency, and number of poles",
+            "tips": [
+                "RPM = (120 * frequency) / number of poles"
+            ]
+        },
+        {
             "question": "What is absolute pressure?",
             "wrongAnswers": [],
             "rightAnswers": [],
@@ -438,6 +444,16 @@
         },
         {
             "question": "Composition of Inergen Gas?",
+            "wrongAnswers": [],
+            "rightAnswers": [],
+            "tips": [
+                "Nitrogen = 52%",
+                "Argon = 40%",
+                "Carbon Dioxide = 8%"
+            ]
+        },
+        {
+            "question": "What is cathodic protection?",
             "wrongAnswers": [],
             "rightAnswers": [],
             "tips": [
