@@ -122,7 +122,6 @@
             ],
             "tips": []
         },
-
         {
             "question": "Calculate (2.05 x 12.15) / 12.76",
             "wrongAnswers": [
@@ -170,8 +169,7 @@
                 "18.34"
             ],
             "tips": []
-        }
-,        
+        },
         {
             "question": "Given that 1 / (6-X) = 1.25, calculate X.",
             "wrongAnswers": [
@@ -193,7 +191,6 @@
             ],
             "rightAnswers": [
                 "8/10.525"
-                
             ],
             "tips": []
         },
@@ -244,6 +241,156 @@
                 "98.22"
             ],
             "tips": []
+        },
+        {
+            "question": "What is the formula for the area of a circle?",
+            "wrongAnswers": [
+                "A = πr",
+                "A = 2πr",
+                "A = πr^3"
+            ],
+            "rightAnswers": [
+                "A = πr^2"
+            ],
+            "tips": [
+                "The area of a circle is calculated using the formula A = πr^2.",
+                "Here, A represents the area, π (pi) is approximately 3.14159, and r is the radius of the circle."
+            ]
+        },
+        {
+            "question": "What is the formula for the circumference of a circle?",
+            "wrongAnswers": [
+                "C = πr^2",
+                "C = 2πr^2",
+                "C = πr/2"
+            ],
+            "rightAnswers": [
+                "C = 2πr"
+            ],
+            "tips": [
+                "The circumference of a circle is calculated using the formula C = 2πr.",
+                "Here, C represents the circumference, π (pi) is approximately 3.14159, and r is the radius of the circle."
+            ]
+        },
+        {
+            "question": "What is the formula for the volume of a cylinder?",
+            "wrongAnswers": [
+                "V = πr^2h/2",
+                "V = πrh^2",
+                "V = πr^2h/3"
+            ],
+            "rightAnswers": [
+                "V = πr^2h"
+            ],
+            "tips": [
+                "The volume of a cylinder is calculated using the formula V = πr^2h.",
+                "Here, V represents the volume, π (pi) is approximately 3.14159, r is the radius of the base, and h is the height of the cylinder."
+            ]
+        },
+        {
+            "question": "What is the formula for the surface area of a cylinder?",
+            "wrongAnswers": [
+                "A = 2πrh",
+                "A = 2πr^2 + πrh",
+                "A = 2πr + 2πrh"
+            ],
+            "rightAnswers": [
+                "A = 2πr^2 + 2πrh"
+            ],
+            "tips": [
+                "The surface area of a cylinder is calculated using the formula A = 2πr^2 + 2πrh.",
+                "Here, A represents the surface area, π (pi) is approximately 3.14159, r is the radius of the base, and h is the height of the cylinder."
+            ]
+        },
+        {
+            "question": "What is the formula for the volume of a sphere?",
+            "wrongAnswers": [
+                "V = 2/3πr^3",
+                "V = 4/3πr^2",
+                "V = 4/3πr"
+            ],
+            "rightAnswers": [
+                "V = 4/3πr^3"
+            ],
+            "tips": [
+                "The volume of a sphere is calculated using the formula V = 4/3πr^3.",
+                "Here, V represents the volume, π (pi) is approximately 3.14159, and r is the radius of the sphere."
+            ]
+        },
+        {
+            "question": "What is the formula for the surface area of a sphere?",
+            "wrongAnswers": [
+                "A = 2πr^2",
+                "A = 4/3πr^2",
+                "A = 3πr^2"
+            ],
+            "rightAnswers": [
+                "A = 4πr^2"
+            ],
+            "tips": [
+                "The surface area of a sphere is calculated using the formula A = 4πr^2.",
+                "Here, A represents the surface area, π (pi) is approximately 3.14159, and r is the radius of the sphere."
+            ]
+        },
+        {
+            "question": "What is the formula for the area of a triangle?",
+            "wrongAnswers": [
+                "A = bh",
+                "A = 2bh",
+                "A = b^2h"
+            ],
+            "rightAnswers": [
+                "A = 1/2bh"
+            ],
+            "tips": [
+                "The area of a triangle is calculated using the formula A = 1/2bh.",
+                "Here, A represents the area, b is the base, and h is the height of the triangle."
+            ]
+        },
+        {
+            "question": "What is the formula for the area of a rectangle?",
+            "wrongAnswers": [
+                "A = lw/2",
+                "A = 2lw",
+                "A = l^2w"
+            ],
+            "rightAnswers": [
+                "A = lw"
+            ],
+            "tips": [
+                "The area of a rectangle is calculated using the formula A = lw.",
+                "Here, A represents the area, l is the length, and w is the width of the rectangle."
+            ]
+        },
+        {
+            "question": "What is the formula for the circumference of a circle?",
+            "wrongAnswers": [
+                "C = πr^2",
+                "C = 2πr^2",
+                "C = πr/2"
+            ],
+            "rightAnswers": [
+                "C = 2πr"
+            ],
+            "tips": [
+                "The circumference of a circle is calculated using the formula C = 2πr.",
+                "Here, C represents the circumference, π (pi) is approximately 3.14159, and r is the radius of the circle."
+            ]
+        },
+        {
+            "question": "What is the formula for the area of a parallelogram?",
+            "wrongAnswers": [
+                "A = l^2h",
+                "A = 2lw",
+                "A = lw^2"
+            ],
+            "rightAnswers": [
+                "A = bh"
+            ],
+            "tips": [
+                "The area of a parallelogram is calculated using the formula A = bh.",
+                "Here, A represents the area, b is the base, and h is the height of the parallelogram."
+            ]
         }
     ]
 }
